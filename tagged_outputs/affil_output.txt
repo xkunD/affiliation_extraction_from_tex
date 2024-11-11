@@ -10,6 +10,10 @@ Content in \\affil for 2401/2401.01295v1.tar.gz:
 Content in \\affil for 2401/2401.01331v2.tar.gz:
 \affil{Department of Physics, Osaka University, Toyonaka, Osaka 560-0043, Japan}
 
+Content in \\affil for 2401/2401.01400v1.tar.gz:
+\affil{Department of Astronomy \& Astrophysics, University of Chicago, Chicago, IL 60637}
+\affil{Department of Astronomy \& Astrophysics, University of Chicago, Chicago, IL 60637}
+
 Content in \\affil for 2401/2401.02889v1.tar.gz:
 \affil{Georgia Institute of Technology, Atlanta, Georgia, 30332}
 
@@ -65,12 +69,29 @@ Content in \\affil for 2401/2401.11422v1.tar.gz:
 Content in \\affil for 2401/2401.11604v1.tar.gz:
 \affil{Department of Physics, Cavendish Laboratory, University of Cambridge \\ J J Thomson Avenue, Cambridge, CB3 0HE, United Kingdom}
 
+Content in \\affil for 2401/2401.12449v1.tar.gz:
+\affil{SNU Astronomy Research Center, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea}
+
 Content in \\affil for 2401/2401.12755v1.tar.gz:
 \affil{Department of Environmental Health and Engineering}
 \affil{Johns Hopkins Bloomberg School of Public Health}
 
 Content in \\affil for 2401/2401.14378v1.tar.gz:
 \affil{\orgdiv{Department of Physics}, \orgname{New York University}, \orgaddress{\city{New York}, \postcode{NY 10003}, \country{USA}}}
+
+Content in \\affil for 2401/2401.14703v1.tar.gz:
+\affil{Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109 USA}
+\affil{NASA Exoplanet Science Institute, IPAC, California Institute of Technology, Pasadena, CA 91125 USA}
+\affil{Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA}
+\affil{Southern Connecticut State University, 501 Crescent Street, New Haven, CT 06515, USA}
+\affil{NASA Exoplanet Science Institute, IPAC, California Institute of Technology, Pasadena, CA 91125 USA}
+\affil{Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA}
+\affil{Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA}
+\affil{Bridgewater State University, 131 Summer St., Bridgewater, MA 02324, USA}
+\affil{Center for Astrophysics $\vert$ Harvard \& Smithsonian, 60 Garden Street, Cambridge, MA 02138, USA}
+\affil{NASA Exoplanet Science Institute, IPAC, California Institute of Technology, Pasadena, CA 91125 USA}
+\affil{Gemini Observatory/NSF's NOIRLab, 670 A'ohoku Place, Hilo, HI 96720 USA}
+\affil{Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA}
 
 Content in \\affil for 2401/2401.15310v1.tar.gz:
 \affil{\orgdiv{Mathematics Department}, \orgname{University of Washington, Seattle}}
@@ -84,3 +105,16 @@ Content in \\affil for 2401/2401.16117v1.tar.gz:
 \affil{Japan Meteorological Agency: 3-6-9 Toranomon, Minato City, Tokyo 105-8431, Japan, e-mail: yoshi\_kato@met.kishou.go.jp}
 \affil{Department of Planetology, Kobe University, 1-1 Rokkodaicho, Nada-ku, Kobe, Hyogo 650-0013, Japan, e-mail: makino@mail.jmlab.jp}
 \affil{School of Science and Engineering, Meisei University, 2-1-1 Hodokubocho, Hino City, Tokyo 191－0042，Japan, e-mail: masato.tsuboi@meisei-u.ac.jp}
+
+Content in \\affil for 2401/2401.17415v1.tar.gz:
+\affil{Las Campanas Observatory, Carnegie Institution of Washington, Colina El Pino, Casilla 601 La Serena, Chile}
+\affil{NASA Ames Research Center, Moffett Field, CA 94035, USA}
+\affil{Exoplanetary Science at UNSW, School of Physics, UNSW Sydney, NSW, 2052, Australia}
+\affil{University of Southern Queensland, Centre for Astrophysics, West Street, Toowoomba, QLD 4350 Australia}
+\affil{NASA Ames Research Center, Moffett Field, CA 94035, USA}
+\affil{Centre for Astrophysics Research, University of Hertfordshire, College Lane, Hatfield AL10 9AB, UK}
+\affil{Australian Astronomical Optics, Macquarie University, 105 Delhi Rd, North Ryde NSW 2113, Australia}
+\affil{Exoplanetary Science at UNSW, School of Physics, UNSW Sydney, NSW, 2052, Australia}
+
+Content in \\affil for 2401/2401.17558v1.tar.gz:
+\affil{School of Physics and Astronomy, Monash University, Clayton Victoria 3800, Australia}

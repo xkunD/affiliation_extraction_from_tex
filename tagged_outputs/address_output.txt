@@ -311,6 +311,9 @@ Content in \\address for 2401/2401.08421v2.tar.gz:
 Content in \\address for 2401/2401.08557v1.tar.gz:
 \address{\textsuperscript{1}Department of Statistics, University of Oxford, 24–29 St Giles’, Oxford, OX1 3LB, United Kingdom}
 
+Content in \\address for 2401/2401.09045v1.tar.gz:
+\address{\affil{~}{Graduate School of Natural Science and Engineering, Shimane University, Matsue 690-8504, Japan} \email{mochizuki@riko.shimane-u.ac.jp} }
+
 Content in \\address for 2401/2401.09152v1.tar.gz:
 \address{Universit\'{a} di Messina, Dipartimento di Scienze Matematiche e Informatiche, Scienze Fisiche e Scienze della Terra\\ Viale Ferdinando Stagno D'Alcontres 31\\ 98166 Messina, Italy}
 \address{Sabanci University, Faculty of Engineering and Natural Sciences, Orta Mahalle, Tuzla 34956, Istanbul, Turkey}
@@ -357,6 +360,10 @@ Content in \\address for 2401/2401.10206v1.tar.gz:
 Content in \\address for 2401/2401.10357v1.tar.gz:
 \address{ $^{1}$ \quad The Perse School, Cambridge, UK}
 
+Content in \\address for 2401/2401.11010v1.tar.gz:
+\address{Authors to whom correspondence should be addressed: mbj@udel.edu, doty@udel.edu}
+\address{Authors to whom correspondence should be addressed: mbj@udel.edu, doty@udel.edu}
+
 Content in \\address for 2401/2401.11139v2.tar.gz:
 \address{The High School Affiliated to Renmin University of China, Beijing 100080, People's Republic of China}
 
@@ -366,6 +373,10 @@ Content in \\address for 2401/2401.11268v1.tar.gz:
 
 Content in \\address for 2401/2401.11332v1.tar.gz:
 \address{Department of Mathematics and Statistics, Masaryk University, Kotlářská 2, 611 37 Brno, Czech Republic}
+
+Content in \\address for 2401/2401.11336v1.tar.gz:
+\address{Institute for Physics, University of Rostock, 18051 Rostock, Germany}
+\address{Institute for Physics, University of Rostock, 18051 Rostock, Germany}
 
 Content in \\address for 2401/2401.11447v1.tar.gz:
 \address{}
