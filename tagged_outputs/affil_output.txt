@@ -1,0 +1,86 @@
+Content in \\affil for 2401/2401.00691v1.tar.gz:
+\affil{\small Princeton University, Department of Operations Research and Financial Engineering}
+
+Content in \\affil for 2401/2401.00845v1.tar.gz:
+\affil{La Canada Flintridge, California 91011, U.S.A.; {\sl ZdenSek@gmail.com}}
+
+Content in \\affil for 2401/2401.01295v1.tar.gz:
+\affil{Department of Mathematics, Dartmouth College, Hanover, NH 03755, USA}
+
+Content in \\affil for 2401/2401.01331v2.tar.gz:
+\affil{Department of Physics, Osaka University, Toyonaka, Osaka 560-0043, Japan}
+
+Content in \\affil for 2401/2401.02889v1.tar.gz:
+\affil{Georgia Institute of Technology, Atlanta, Georgia, 30332}
+
+Content in \\affil for 2401/2401.04521v1.tar.gz:
+\affil{Supra DeFi Research}
+
+Content in \\affil for 2401/2401.05141v1.tar.gz:
+\affil{Institute of Mathematics, Faculty of Mathematics, Physics and Informatics, University of Gda\'nsk\par Wita Stwosza 57, 80-308 Gda\'nsk, Poland}
+\affil{Mathematisches Seminar, Christian-Albrechts-Universit\"at zu Kiel\par Heinrich-Hecht-Platz 6, 24118 Kiel, Germany}
+
+Content in \\affil for 2401/2401.05379v1.tar.gz:
+\affil{Undergraduate Student in Computer Science, Central Tehran Branch, Islamic Azad University, Tehran, Iran}
+
+Content in \\affil for 2401/2401.06242v1.tar.gz:
+\affil{University of California Berkeley, CA-94720, Berkeley, USA}
+\affil{Eureka Scientific, CA-94602, Oakland, USA}
+\affil{University of Trieste, Department of Physics, 34127 Trieste, Italy}
+\affil{Istituto Nazionale di Fisica Nucleare - INFN, 34127 Trieste, Italy}
+\affil{Stanford University, CA-94305, Stanford, USA}
+\affil{Eureka Scientific, CA-94602, Oakland, USA}
+
+Content in \\affil for 2401/2401.06805v1.tar.gz:
+\affil{ByteDance Inc.}
+
+Content in \\affil for 2401/2401.07260v1.tar.gz:
+\affil{Department of Physics \& Astronomy \\ University of New Mexico, NM, 87106 \\ New Mexico, USA}
+
+Content in \\affil for 2401/2401.07518v1.tar.gz:
+\affil{\orgdiv{School of Data Engineering and Science}, \orgname{East China Normal University}, \orgaddress{\street{Zhongshan Rd}, \city{Shanghai}, \postcode{200062}, \country{China}}}
+
+Content in \\affil for 2401/2401.08019v1.tar.gz:
+\affil{The University of Sydney}
+
+Content in \\affil for 2401/2401.08513v1.tar.gz:
+\affil{Department of Data Science and its Applications, German Research Centre for Artificial Intelligence, Kaiserslautern}
+
+Content in \\affil for 2401/2401.09045v1.tar.gz:
+\affil{~}
+
+Content in \\affil for 2401/2401.09914v1.tar.gz:
+\affil{Department of Physics, Cavendish Laboratory, University of Cambridge \\ J J Thomson Avenue, Cambridge, CB3 0HE, United Kingdom}
+
+Content in \\affil for 2401/2401.10118v1.tar.gz:
+\affil{\textit{University of Pisa, Department of Computer Science}}
+
+Content in \\affil for 2401/2401.11356v1.tar.gz:
+\affil{Computer Science Department, Columbia University}
+\affil{\texttt {\{xz2995,zc2738,zy2461\}@columbia.edu}}
+
+Content in \\affil for 2401/2401.11422v1.tar.gz:
+\affil{MIT}
+
+Content in \\affil for 2401/2401.11604v1.tar.gz:
+\affil{Department of Physics, Cavendish Laboratory, University of Cambridge \\ J J Thomson Avenue, Cambridge, CB3 0HE, United Kingdom}
+
+Content in \\affil for 2401/2401.12755v1.tar.gz:
+\affil{Department of Environmental Health and Engineering}
+\affil{Johns Hopkins Bloomberg School of Public Health}
+
+Content in \\affil for 2401/2401.14378v1.tar.gz:
+\affil{\orgdiv{Department of Physics}, \orgname{New York University}, \orgaddress{\city{New York}, \postcode{NY 10003}, \country{USA}}}
+
+Content in \\affil for 2401/2401.15310v1.tar.gz:
+\affil{\orgdiv{Mathematics Department}, \orgname{University of Washington, Seattle}}
+
+Content in \\affil for 2401/2401.15778v1.tar.gz:
+\affil{Department of Statistics, University of California, Davis, Davis 95616 USA \email{xcading@ucdavis.edu}}
+\affil{Department of Statistical Sciences, University of Toronto, Toronto M5G 1X6, Canada \email{zhou.zhou@utoronto.ca}}
+
+Content in \\affil for 2401/2401.16117v1.tar.gz:
+\affil{National Astronomical Observatory, Japan, 2-21-1, Osawa, Mitaka, Tokyo, Japan, 181-8588}
+\affil{Japan Meteorological Agency: 3-6-9 Toranomon, Minato City, Tokyo 105-8431, Japan, e-mail: yoshi\_kato@met.kishou.go.jp}
+\affil{Department of Planetology, Kobe University, 1-1 Rokkodaicho, Nada-ku, Kobe, Hyogo 650-0013, Japan, e-mail: makino@mail.jmlab.jp}
+\affil{School of Science and Engineering, Meisei University, 2-1-1 Hodokubocho, Hino City, Tokyo 191－0042，Japan, e-mail: masato.tsuboi@meisei-u.ac.jp}

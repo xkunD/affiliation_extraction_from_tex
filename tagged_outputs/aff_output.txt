@@ -1,0 +1,20 @@
+Content in \\AFF for 2401/2401.01397v1.tar.gz:
+\AFF{Tel Aviv University, Tel Aviv 6997801, Israel, \EMAIL{fibich@tau.ac.il}, \EMAIL{levintmr@gmail.com}}
+\AFF{Yale University, New Haven, CT 06033, USA, \EMAIL{kenneth.gillingham@yale.edu}}
+
+Content in \\AFF for 2401/2401.01565v1.tar.gz:
+\AFF{School of Management and Economics, The Chinese University of Hong Kong, Shenzhen, China, \EMAIL{\tt fangyue@cuhk.edu.cn}}
+\AFF{Department of Industrial Engineering, Tsinghua University, Beijing 100084, China, \EMAIL{\tt junyiliu@tsinghua.edu.cn}}
+\AFF{Department of Industrial and Systems Engineering, University of Southern California, Los Angeles \EMAIL{\tt jongship@usc.edu}}
+
+Content in \\AFF for 2401/2401.07305v1.tar.gz:
+\AFF{Graduate School of Business, Stanford University, \EMAIL{kuangxu@stanford.edu} \AUTHOR{Gal Mendelson\footnote{This version: \today. G.~Mendelson was supported in part by a postdoctoral fellowship at the Stanford University and a Fulbright scholarship. } } \AFF{Faculty of Data and Decision Sciences, Technion, \EMAIL{galmen@technion.ac.il}} }
+
+Content in \\AFF for 2401/2401.08142v1.tar.gz:
+\AFF{School of Mathematics and Statistics, The University of Melbourne, Australia \EMAIL{\\vkatial@student.unimelb.edu, smith-miles@unimelb.edu.au} \URL{}}
+\AFF{School of Physics, University of New South Wales, Australia \EMAIL{\\charles.hill1@unsw.edu.au}}
+
+Content in \\AFF for 2401/2401.08224v3.tar.gz:
+\AFF{Laboratory for Information and Decision Systems, MIT, \url{jiach334@mit.edu}}
+\AFF{Zhili College, Tsinghua University, \url{skn20@mails.tsinghua.edu.cn}}
+\AFF{Laboratory for Information and Decision Systems, MIT, \url{dslevi@mit.edu}}

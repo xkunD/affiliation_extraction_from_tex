@@ -1,0 +1,122 @@
+Content in \\affiliations for 2401/2401.00132v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}GrapheneX-UTS Human-centric Artificial Intelligence Centre (HAI), \\ University of Technology Sydney,\\ Ultimo NSW 2007, Australia \textsuperscript{\rm *}Corresponding Author. Email: chin-teng.lin@uts.edu.au }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.00165v1.tar.gz:
+\affiliations{ National Key Laboratory for Novel Software Technology, Nanjing University, China\\ School of Artificial Intelligence, Nanjing University, China\\ \{wangsky,zhangyeqin\}@smail.nju.edu.cn, \{ncamtu\}@nju.edu.cn\\ }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.00315v1.tar.gz:
+\affiliations{ Carnegie Mellon University\\ \{yifansu,rveerapa\}@andrew.cmu.edu, jiaoyangli@cmu.edu }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.00729v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}National University of Singapore\\ \textsuperscript{\rm 2}Huawei International Pte Ltd\\ \textsuperscript{\rm 3}Beijing Jiaotong University\\ \{beibei.lin, e0178303\}@u.nus.edu, \{yan.wending, yewei10, yuanyuan10\}@huawei.com, \\ slzhang@bjtu.edu.cn, robby.tan@nus.edu.sg }
+
+Content in \\affiliations for 2401/2401.01055v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}School of Computer Science, Fudan University\\ \{zhaoj19,zhangzhihao19,qz,tgui\}@fudan.edu.cn\\ }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.01107v1.tar.gz:
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.01219v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1} School of Electronic Engineering and Computer Science, Queen Mary University of London, UK\\ \textsuperscript{\rm 2}School of Engineering and Informatics, University of Sussex, UK \\ \textsuperscript{\rm 3} Department of Computing, Imperial College London, UK \\ d.kollias@qmul.ac.uk, sharmanska.v@sussex.ac.uk, s.zafeiriou@imperial.ac.uk }
+
+Content in \\affiliations for 2401/2401.01326v1.tar.gz:
+\affiliations{ \textsuperscript{1} FI Group, Puteaux, France \\ \textsuperscript{2} LIPN, Université Sorbonne Paris Nord - CNRS UMR 7030, Villetaneuse, France\\ \{zaratiana, tomeh, charnois\}@lipn.fr, pierre.holat@fi-group.com }
+
+Content in \\affiliations for 2401/2401.01552v1.tar.gz:
+\affiliations{ State Key Laboratory for Novel Software Technology, Nanjing University\\ \{rongyi, dg1833031, meicheng, wangjh\}@smail.nju.edu.cn, hrzhou98@gmail.com, lutong@nju.edu.cn\\ }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.01577v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1} Noah's Ark Lab, Huawei, Canada \\ \textsuperscript{\rm 2} University of Waterloo, Canada\\ \textsuperscript{\rm 3} Department of Computer Science and Software Engineering, Concordia University, Canada\\ \textsuperscript{\rm 4} The Edward S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Canada\\ \{huan.liu127, zhenhao.li1, mohammad.hassanpour, yuanhao.yu\}@huawei.com, j6qi@waterloo.ca, \\ yang.wang@concordia.ca, kostas@ece.utoronto.ca }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.01642v2.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}National Engineering Research Center of Visual Technology, National Key Laboratory \\ for Multimedia Information Processing, School of Computer Science, Peking University\\ \textsuperscript{\rm 2}AI Innovation Center, School of Computer Science, Peking University\\ \textsuperscript{\rm 3}School of Computer Science and Engineering, Nanyang Technological University\\ \textsuperscript{\rm 4}National Biomedical Imaging Center, Peking University\\ \{dreamerliu, ttjiang\}@pku.edu.cn, zhixuanli520@gmail.com }
+
+Content in \\affiliations for 2401/2401.02032v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Hunan University\\ \textsuperscript{\rm 2}National University of Defense Technology }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.02309v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning,\\ Central China Normal University, Wuhan, China \\ \textsuperscript{\rm 2}School of Computer Science, Central China Normal University, Wuhan, China \\ \textsuperscript{\rm 3}National Language Resources Monitoring and Research Center for Network Media, \\Central China Normal University, Wuhan, China \\ \textsuperscript{\rm 4}School of Computer Science, Hubei University of Technology, Wuhan, China \\ haosun@ccnu.edu.cn, zhoumingyao@mails.ccnu.edu.cn, chenwenjing@hbut.edu.cn, XW@mail.ccnu.edu.cn }
+
+Content in \\affiliations for 2401/2401.02610v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Northwest A\&F University, \textsuperscript{\rm 2}La Trobe University, \textsuperscript{\rm 3}Peking University, \textsuperscript{\rm 4}University of New South Wales\\ \{jinec, zhaolizhi, wml\}@nwsuaf.edu.cn, b.lu@latrobe.edu.au, forhuwei@pku.edu.cn, imran.razzak@unsw.edu.au }
+
+Content in \\affiliations for 2401/2401.03140v2.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Association for the Advancement of Artificial Intelligence\\ 1900 Embarcadero Road, Suite 101\\ Palo Alto, California 94303-3310 USA\\ proceedings-questions@aaai.org }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.03514v1.tar.gz:
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.04348v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}VinAI Research, Vietnam\\ \textsuperscript{\rm 2}Ho Chi Minh City University of Technology (HCMUT), VNU-HCM, Ho Chi Minh City, Vietnam\\ \textsuperscript{\rm 3}Nanyang Technological University, Singapore\\ v.khoilm1@vinai.io, phkhanhtrinh23@gmail.com, qttho@hcmut.edu.vn, anhtuan.luu@ntu.edu.sg }
+
+Content in \\affiliations for 2401/2401.04812v2.tar.gz:
+\affiliations{ University of California, San Diego\\ }
+
+Content in \\affiliations for 2401/2401.05363v2.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}State Key Laboratory of Brain-machine Intelligence, Zhejiang University, Hangzhou, China\\ \textsuperscript{\rm 2}College of Computer Science and Technology, Zhejiang University, Hangzhou, China\\ \textsuperscript{\rm 3}Department of Neurobiology, Affiliated Mental Health Center \& Hangzhou Seventh People's Hospital, Zhejiang University School of Medicine, Hangzhou, China\\ \textsuperscript{\rm 4}MOE Frontier Science Center for Brain Science and Brain-machine Integration, Zhejiang University, Hangzhou, China\\ \{wangjiquan, szhao, h.jiang, shijianli, litaozjusc, gpan\}@zju.edu.cn }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.05437v1.tar.gz:
+\affiliations{ Department of Computer Science\\ ETH Zürich\\ jjanosch@student.ethz.ch }
+
+Content in \\affiliations for 2401/2401.06633v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Association for the Advancement of Artificial Intelligence\\ 1900 Embarcadero Road, Suite 101\\ Palo Alto, California 94303-3310 USA\\ proceedings-questions@aaai.org }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.07709v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1} Key Laboratory of Multimedia Trusted Perception and Efficient Computing, \\ Ministry of Education of China, Xiamen University, 361005, P.R. China\\ \textsuperscript{\rm 2} Fuxi AI Lab, NetEase Inc., Hangzhou, China\\ zousiyu@stu.xmu.edu.cn, tangjiji01@corp.netease.com, zhouyiyi@xmu.edu.cn, blinghe@stu.xmu.edu.cn \\ \{zhaochaoyi, zhangrongsheng, zphu\}@corp.netease.com, xssun@xmu.edu.cn }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.08083v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Shenzhen International Graduate School, Tsinghua University, Shenzhen, China\\ \textsuperscript{\rm 2}Department of Electronic Engineering, Tsinghua University, Beijing, China\\ zhangxin4087@163.com, liuyu2419@126.com }
+
+Content in \\affiliations for 2401/2401.09923v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}EEECS/ECIT, Queen's University Belfast, UK \\ \textsuperscript{\rm 2}Anyvision, Belfast, UK\\ \{gsun02, y.hua, n.robertson\}@qub.ac.uk, huguosheng100@gmail.com }
+\affiliations{ Affiliation \\ Affiliation Line 2 \\ name@example.com }
+
+Content in \\affiliations for 2401/2401.10393v1.tar.gz:
+\affiliations{ \LARGE Georgia Institute of Technology \gtlogo \\ \Large \{ agandhi98, rajsanjayshah, vijaymarupudi, varma\}@gatech.edu }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.11115v2.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Huawei Technologies Co., Ltd.,\\ \textsuperscript{\rm 2}Nanyang Technological University \\ nhat005@e.ntu.edu.sg, gongkehong@u.nus.edu, cguo2@ualberta.ca, michaelbimi@yahoo.com }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.11254v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}IIT-CNR, Italy, \textit{{[name.surname]}@iit.cnr.it}\\ \textsuperscript{\rm 2}University of Pisa, Italy, \textit{marco.avvenuti@unipi.it} }
+
+Content in \\affiliations for 2401/2401.11819v1.tar.gz:
+\affiliations{ SuperCLUE team clues@cluebenchmarks.com }
+
+Content in \\affiliations for 2401/2401.12001v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}School of Electrical Engineering, KAIST, Daejeon, South Korea\\ \textsuperscript{\rm 2}Hyundai Motor Company, Seoul, South Korea\\ \{mcneato, chlwogus, junmo.kim\}@kaist.ac.kr, kwh950724@hyundai.com }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.12012v3.tar.gz:
+\affiliations{ Chair for Human-Centered Technologies for Learning, Technical University of Munich, Munich, Bavaria, Germany \\ \{mengdi.wang, anna.bodonhelyi, efe.bozkir, enkelejda.kasneci\}@tum.de \\ }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.13129v1.tar.gz:
+\affiliations{ $^1$Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA \\ $^2$IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA \\ $^3$IBM Almaden Research Center, San Jose, CA, USA \\ \{yuz9, yzhan238, yanzhen4, czhai, hanj\}@illinois.edu, \ \ \ \{dengy, lpopa, lshwart\}@us.ibm.com }
+
+Content in \\affiliations for 2401/2401.14113v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}Nanyang Technological University, Singapore \\ \textsuperscript{\rm 2}National University of Singapore, Singapore \\ \textsuperscript{\rm 3}DAMO Academy, Alibaba Group, Singapore \\ \{xiaobao002,panf0004,yichao002,chaoqun001,nguyentr003,anhtuan.luu\}@ntu.edu.sg,\; e0998147@u.nus.edu }
+
+Content in \\affiliations for 2401/2401.14832v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}School of Computer Science and Engineering, Southeast University, Nanjing 210096, China\\ \textsuperscript{\rm 2}Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary\\ Applications (Southeast University), Ministry of Education, China\\ \{shipengzhu, fangpengfei, chenjiezhu, zuoyanzhao, 220232307, hxue\}@seu.edu.cn }
+
+Content in \\affiliations for 2401/2401.17527v1.tar.gz:
+\affiliations{ University of Science and Technology of China\\ \{haotianling,zhwangx\}@mail.ustc.edu.cn\\ jiewangx@ustc.edu.cn }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
+
+Content in \\affiliations for 2401/2401.17609v1.tar.gz:
+\affiliations{ \textsuperscript{\rm 1}School of Data Science, Fudan University \quad \\ \textsuperscript{\rm 2}Huawei Noah’s Ark Lab \\ chromexbjxh@gmail.com, lizhangfd@fudan.edu.cn }
+\affiliations{ Affiliation\\ Affiliation Line 2\\ name@example.com }
