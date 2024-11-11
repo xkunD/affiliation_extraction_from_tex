@@ -1,0 +1,17 @@
+
+*.zip
+*.gz
+/2201_samp
+/2201_samp_1
+/2201_samp_all
+/2201_samp_test_set
+/2201_samp_test_set_1
+/2201_samp_test_set_all
+/fine_tuned_ner_model
+/myenv
+/trained_ner_model
+/ror
+*.tex
+ror-onename.json
+organization_extraction.log
+ror.json

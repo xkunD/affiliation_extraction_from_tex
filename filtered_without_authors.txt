@@ -1,0 +1,34 @@
+from typing import List, Tuple
+
+def find_destination(height_map: List[List[int]], start_row: int, start_col: int) -> Tuple[int, int]:
+    rows, cols = len(height_map), len(height_map[0])
+    memo = {}  # Memoization table to store destinations for each cell
+
+    def dfs(row: int, col: int) -> Tuple[int, int]:
+        # If we have already computed the destination for this cell, return it
+        if (row, col) in memo:
+            return memo[(row, col)]
+        
+        # Initialize the current cell as the destination
+        destination = (row, col)
+        min_height = height_map[row][col]
+
+        # Define directions: up, down, left, right
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+        # Explore each direction
+        for dr, dc in directions:
+            new_row, new_col = row + dr, col + dc
+            if 0 <= new_row < rows and 0 <= new_col < cols:
+                if height_map[new_row][new_col] < min_height:
+                    # Recurse to the lower height cell
+                    dest = dfs(new_row, new_col)
+                    destination = dest
+                    min_height = height_map[new_row][new_col]
+        
+        # Store result in memo
+        memo[(row, col)] = destination
+        return destination
+
+    # Start DFS from the specified start cell
+    return dfs(start_row, start_col)
