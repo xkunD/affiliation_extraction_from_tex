@@ -836,24 +836,19 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Singapore Management University
 
 \institution{Featurespace}
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
+  - No exact match found in ROR.
 
 \institution{Featurespace}
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
+  - No exact match found in ROR.
 
 \institution{Featurespace}
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
+  - No exact match found in ROR.
 
 \institution{Featurespace}
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
+  - No exact match found in ROR.
 
 \institution{Featurespace}
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
+  - No exact match found in ROR.
 
 \institution{University of Stuttgart}
   - ROR_ID: https://ror.org/04vnq7t77
@@ -1110,8 +1105,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: KU Leuven
 
 \institution{King's College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/0220mzb33
   - Name: King's College London
 
@@ -1122,14 +1115,10 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Hope University
 
 \institution{King's College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/0220mzb33
   - Name: King's College London
 
 \institution{King's College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/0220mzb33
   - Name: King's College London
 
@@ -1198,8 +1187,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - No exact match found in ROR.
 
 \institution{National Center for State Courts (NCSC) }
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/049c2z606
   - Name: National Center for State Courts
 
@@ -1259,12 +1246,10 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: York University
 
 \institution{Adobe Research}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
+  - No exact match found in ROR.
 
 \institution{Adobe Research}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
+  - No exact match found in ROR.
 
 \institution{University of California, San Diego}
   - ROR_ID: https://ror.org/0168r3w48
@@ -1373,8 +1358,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{Shandong University}
   - ROR_ID: https://ror.org/0207yh398
   - Name: Shandong University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{University of Science and Technology of China}
   - ROR_ID: https://ror.org/04c4dkn09
@@ -1385,8 +1368,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{State Key Lab of CAD\&CG, Zhejiang University}
   - ROR_ID: https://ror.org/00a2xv884
   - Name: Zhejiang University
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
 
 \institution{School of Art and Archaeology, Zhejiang University}
   - ROR_ID: https://ror.org/00a2xv884
@@ -1404,8 +1385,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{State Key Lab of CAD\&CG, Zhejiang University}
   - ROR_ID: https://ror.org/00a2xv884
   - Name: Zhejiang University
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
 
 \institution{Alibaba Group}
   - No exact match found in ROR.
@@ -1427,19 +1406,16 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Tsinghua University
 
 \institution{Università degli studi dell'Aquila}
-  - ROR_ID: https://ror.org/00kgt0r22
-  - Name: Studi
+  - No exact match found in ROR.
 
 \institution{Università degli studi dell'Aquila}
-  - ROR_ID: https://ror.org/00kgt0r22
-  - Name: Studi
+  - No exact match found in ROR.
 
 \institution{DIRO, University of Montreal}
   - No exact match found in ROR.
 
 \institution{Università degli studi dell'Aquila}
-  - ROR_ID: https://ror.org/00kgt0r22
-  - Name: Studi
+  - No exact match found in ROR.
 
 \institution{Carnegie Mellon University}
   - ROR_ID: https://ror.org/05x2bcf33
@@ -1448,21 +1424,16 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{Google DeepMind}
   - ROR_ID: https://ror.org/01ygx6877
   - Name: Mind
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
 
 \institution{University of California San Diego}
   - No exact match found in ROR.
 
 \institution{Google Research}
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
+  - No exact match found in ROR.
 
 \institution{Google DeepMind}
   - ROR_ID: https://ror.org/01ygx6877
   - Name: Mind
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
 
 \institution{Stanford University}
   - ROR_ID: https://ror.org/00f54p054
@@ -1471,14 +1442,10 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{Google DeepMind}
   - ROR_ID: https://ror.org/01ygx6877
   - Name: Mind
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
 
 \institution{Google DeepMind}
   - ROR_ID: https://ror.org/01ygx6877
   - Name: Mind
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
 
 \institution{Leiden Institute of Advanced Computer Science}
   - No exact match found in ROR.
@@ -1600,8 +1567,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Delft University of Technology
 
 \institution{University College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/02jx3x895
   - Name: University College London
 
@@ -1624,8 +1589,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - No exact match found in ROR.
 
 \institution{University College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/02jx3x895
   - Name: University College London
 
@@ -1651,26 +1614,18 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{College of Information Studies, University of Maryland}
   - ROR_ID: https://ror.org/055f0jp24
   - Name: University of Mary
-  - ROR_ID: https://ror.org/00kgt0r22
-  - Name: Studi
 
 \institution{\institution{College of Information Studies, University of Maryland}
   - ROR_ID: https://ror.org/055f0jp24
   - Name: University of Mary
-  - ROR_ID: https://ror.org/00kgt0r22
-  - Name: Studi
 
 \institution{Department of Mechanical Engineering, University of Maryland}
   - ROR_ID: https://ror.org/055f0jp24
   - Name: University of Mary
-  - ROR_ID: https://ror.org/046g3bm52
-  - Name: MEC
 
 \institution{Department of Mechanical Engineering, University of Maryland}
   - ROR_ID: https://ror.org/055f0jp24
   - Name: University of Mary
-  - ROR_ID: https://ror.org/046g3bm52
-  - Name: MEC
 
 \institution{Electrical \& Computer Engineering Department, Rice University}
   - ROR_ID: https://ror.org/008zs3103
@@ -1700,8 +1655,7 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Institute of Automation
 
 \institution{School of Artificial Intelligence, UCAS}
-  - ROR_ID: https://ror.org/01smr1h94
-  - Name: Telligen
+  - No exact match found in ROR.
 
 \institution{Institute of Automation, CAS}
   - ROR_ID: https://ror.org/056qj1t15
@@ -1710,8 +1664,7 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Institute of Automation
 
 \institution{School of Artificial Intelligence, UCAS}
-  - ROR_ID: https://ror.org/01smr1h94
-  - Name: Telligen
+  - No exact match found in ROR.
 
 \institution{Institute of Automation, CAS}
   - ROR_ID: https://ror.org/056qj1t15
@@ -1732,8 +1685,7 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Institute of Automation
 
 \institution{School of Artificial Intelligence, UCAS}
-  - ROR_ID: https://ror.org/01smr1h94
-  - Name: Telligen
+  - No exact match found in ROR.
 
 \institution{Department of Computer Science, University of Toronto}
   - ROR_ID: https://ror.org/03dbr7087
@@ -1765,26 +1717,18 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: University of Toronto
 
 \institution{Pennsylvania State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04p491231
   - Name: Pennsylvania State University
 
 \institution{Pennsylvania State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04p491231
   - Name: Pennsylvania State University
 
 \institution{Pennsylvania State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04p491231
   - Name: Pennsylvania State University
 
 \institution{Pennsylvania State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04p491231
   - Name: Pennsylvania State University
 
@@ -1961,8 +1905,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Department of Education
   - ROR_ID: https://ror.org/029705428
   - Name: Department of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/01pxwe438
   - Name: McGill University
   - ROR_ID: https://ror.org/03a2pqz96
@@ -1983,8 +1925,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Department of Education
   - ROR_ID: https://ror.org/029705428
   - Name: Department of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/01pxwe438
   - Name: McGill University
   - ROR_ID: https://ror.org/03a2pqz96
@@ -1997,8 +1937,7 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - No exact match found in ROR.
 
 \institution{Google Research}
-  - ROR_ID: https://ror.org/005nzs995
-  - Name: GLE
+  - No exact match found in ROR.
 
 \institution{Harbin Institute of Technology, Shenzhen}
   - ROR_ID: https://ror.org/01yqg2h08
@@ -2049,20 +1988,14 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: University of Sydney
 
 \institution{San Jose State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04qyvz380
   - Name: San Jose State University
 
 \institution{San Jose State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04qyvz380
   - Name: San Jose State University
 
 \institution{University of Vienna, Faculty of Computer Science, Research Network Data Science, UniVie Doctoral School Computer Science DoCS}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/03prydq77
   - Name: University of Vienna
 
@@ -2199,16 +2132,12 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05p70jq59
   - Name: Ministry of Education
-  - ROR_ID: https://ror.org/01smr1h94
-  - Name: Telligen
   - ROR_ID: https://ror.org/04fp2d244
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05w8pph52
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05tc5ha67
   - Name: EARN
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/00dh5gw98
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05v8z6a72
@@ -2478,14 +2407,10 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{Key Lab of HCST (PKU), MOE; SCS, Peking University}
   - ROR_ID: https://ror.org/01evb6z23
@@ -2502,8 +2427,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{Texas A\&M University}
   - No exact match found in ROR.
@@ -2619,8 +2542,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - No exact match found in ROR.
 
 \institution{Mysten Labs and University College London (UCL) }
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/02jx3x895
   - Name: University College London
 
@@ -2631,8 +2552,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - No exact match found in ROR.
 
 \institution{North Carolina State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04tj63d06
   - Name: North Carolina State University
 
@@ -2641,16 +2560,12 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: University of Bristol
 
 \institution{North Carolina State University}
-  - ROR_ID: https://ror.org/04s55st49
-  - Name: Tate
   - ROR_ID: https://ror.org/04tj63d06
   - Name: North Carolina State University
 
 \institution{Seattle University}
   - ROR_ID: https://ror.org/02jqc0m91
   - Name: Seattle University
-  - ROR_ID: https://ror.org/01fef0w16
-  - Name: EAT
 
 \institution{Dataminr}
   - No exact match found in ROR.
@@ -2670,20 +2585,14 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{Chongqing University}
   - ROR_ID: https://ror.org/023rhb549
@@ -2724,8 +2633,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05w8pph52
   - Name: Ministry of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/00dh5gw98
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05v8z6a72
@@ -2776,8 +2683,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05w8pph52
   - Name: Ministry of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/00dh5gw98
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05v8z6a72
@@ -2802,8 +2707,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{School of Information Science and Engineering, Shandong Normal University}
   - ROR_ID: https://ror.org/01wy3h363
   - Name: Shandong Normal University
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
 
 \institution{University of Michigan}
   - No exact match found in ROR.
@@ -3054,8 +2957,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: University of Electronic Science and Technology of China
 
 \institution{University College London}
-  - ROR_ID: https://ror.org/00e73ws79
-  - Name: DO
   - ROR_ID: https://ror.org/02jx3x895
   - Name: University College London
 
@@ -3116,8 +3017,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05w8pph52
   - Name: Ministry of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/00dh5gw98
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05v8z6a72
@@ -3168,8 +3067,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05w8pph52
   - Name: Ministry of Education
-  - ROR_ID: https://ror.org/056mxwx29
-  - Name: CATI
   - ROR_ID: https://ror.org/00dh5gw98
   - Name: Ministry of Education
   - ROR_ID: https://ror.org/05v8z6a72
@@ -3202,8 +3099,6 @@ Content in \\institution for 2401/2401.17984v1.tar.gz:
 \institution{National Key Laboratory for Novel Software Technology, Nanjing University \& School of Artificial Intelligence, Nanjing University}
   - ROR_ID: https://ror.org/01rxvg760
   - Name: Nanjing University
-  - ROR_ID: https://ror.org/01smr1h94
-  - Name: Telligen
 
 \institution{University of California, Irvine}
   - ROR_ID: https://ror.org/04gyf1771
