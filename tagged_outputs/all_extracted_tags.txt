@@ -1,0 +1,115 @@
+{
+    "2311_tex_test/2311.00029": {
+        "\\\\affiliation": [
+            "School of Physics and Astronomy, Tel-Aviv University, Tel-Aviv 69978, Israel",
+            "Racah Institute of Physics, Hebrew University of Jerusalem, Jerusalem 91904, Israel",
+            "Laboratoire d'Annecy-le-Vieux de Physique Th\\'eorique, CNRS -- USMB, BP 110 Annecy-le-Vieux, F-74941 Annecy, France"
+        ]
+    },
+    "2311_tex_test/2311.00022": {},
+    "2311_tex_test/2311.00020": {
+        "\\\\affiliation": [
+            "Physik-Institut, Universit\\\"at Z\\\"urich, CH-8057 Z\\\"urich, Switzerland",
+            "PRISMA$^+$ Cluster of Excellence {\\em \\&",
+            "Physics Department, King’s College London, Strand, London, WC2R 2LS, United Kingdom"
+        ]
+    },
+    "2311_tex_test/2311.00028": {
+        "\\\\affiliation": [
+            "Department of Physics and Astronomy, College of Charleston, 66 George Street, Charleston, SC 29424, USA",
+            "Lawrence Livermore National Laboratory, P.O. Box 808, Livermore, CA 94550, USA",
+            "Lawrence Livermore National Laboratory, P.O. Box 808, Livermore, CA 94550, USA",
+            "Harish-Chandra Research Institute, HBNI Chhatnag Road, Jhusi, Allahabad 211019, India"
+        ],
+        "\\\\affil": [
+            "Kavli Institute for Theoretical Physics, University of California Santa Barbara, Santa Barbara, CA 93106, USA"
+        ]
+    },
+    "2311_tex_test/2311.00027": {
+        "\\\\affiliation": [
+            "$^1$ Department of Physics, Ben-Gurion University of the Negev, \\\\ David Ben Gurion Boulevard 1, Beer Sheva 84105, Israel \\\\"
+        ]
+    },
+    "2311_tex_test/2311.00018": {
+        "\\\\affiliation": [
+            "Center for Interdisciplinary Exploration \\& Research in Astrophysics (CIERA), Physics \\& Astronomy, Northwestern University, Evanston, IL 60202, USA",
+            "Center for Interdisciplinary Exploration \\& Research in Astrophysics (CIERA), Physics \\& Astronomy, Northwestern University, Evanston, IL 60202, USA",
+            "Center for Interdisciplinary Exploration \\& Research in Astrophysics (CIERA), Physics \\& Astronomy, Northwestern University, Evanston, IL 60202, USA",
+            "Courant Institute of Mathematical Sciences, New York University, New York, New York 10011, United States",
+            "Black Hole Initiative at Harvard University, 20 Garden St., Cambridge, MA 02138, USA",
+            "Center for Astrophysics, Harvard \\& Smithsonian, 60 Garden St., Cambridge, MA 02138, USA",
+            "Center for Relativistic Astrophysics, Georgia Institute of Technology, Howey Physics Bldg, 837 State St NW, Atlanta, GA 30332, USA",
+            "Institute for Theory and Computation, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",
+            "Center for Interdisciplinary Exploration \\& Research in Astrophysics (CIERA), Physics \\& Astronomy, Northwestern University, Evanston, IL 60202, USA",
+            "Center for Interdisciplinary Exploration \\& Research in Astrophysics (CIERA), Physics \\& Astronomy, Northwestern University, Evanston, IL 60202, USA",
+            "Center for Computational Astrophysics, Flatiron Institute, New York, NY 10010, USA",
+            "Department of Physics and Columbia Astrophysics Laboratory, Columbia University, Pupin Hall, New York, NY 10027, USA"
+        ]
+    },
+    "2311_tex_test/2311.00010": {},
+    "2311_tex_test/2311.00006": {
+        "\\\\address": [
+            "Department of Mathematics, University College London"
+        ]
+    },
+    "2311_tex_test/2311.00001": {
+        "\\\\institute": [
+            "Ariel University, Ariel 40700, Israel\\\\ (E-mail: {\\tt asya@ariel.ac.il"
+        ]
+    },
+    "2311_tex_test/2311.00024": {
+        "\\\\affil": [
+            "\\small Department of Physics, Swansea University,\\protect\\\\ \\small Swansea SA2 8PP, United Kingdom \\vspace{0.2cm",
+            "\\small Yau Mathematical Sciences Center,\\protect\\\\ \\small Tsinghua University, Beijing, 100084, China \\vspace{0.2cm",
+            "\\small Nordita, KTH Royal Institute of Technology and Stockholm University,\\protect\\\\ \\small Hannes Alfv\\'ens V\\\"ag 12, 106 91 Stockholm, Sweden \\vspace{0.2cm",
+            "\\small Niels Bohr Institute, Copenhagen University,\\protect\\\\ \\small Blegdamsvej 17, 2100 Copenhagen, Denmark \\vspace{0.2cm"
+        ]
+    },
+    "2311_tex_test/2311.00014": {
+        "\\\\university": [
+            "\\href{http://www.ncbj.gov.pl"
+        ]
+    },
+    "2311_tex_test/2311.00009": {},
+    "2311_tex_test/2311.00019": {
+        "\\\\affiliation": [
+            "Department of Physics, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801-3080, USA",
+            "Nordita, Stockholm University and KTH Royal Institute of Technology Hannes Alfv\\'ens v\\\"ag 12, SE-106 91 Stockholm, Sweden",
+            "Institute for Physics of Microstructures, Russian Academy of Sciences, 603950 Nizhny Novgorod, GSP-105, Russia"
+        ]
+    },
+    "2311_tex_test/2311.00021": {},
+    "2311_tex_test/2311.00026": {
+        "\\\\affiliation": [
+            "$^*$Physics Department, Arizona State University, Tempe, Arizona 85287, USA.\\\\ $^\\dag$Theoretical Physics Department, CERN, 1211 Geneva 23, Switzerland."
+        ]
+    },
+    "2311_tex_test/2311.00004": {
+        "\\\\affiliation": [
+            "P.N. Lebedev Institute of Physics, Lenin Avenue 53, 119991 Moscow, Russia",
+            "Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, 119991 Moscow, Russia",
+            "Joint Institute for Nuclear Research, Dubna 141980, Moscow region, Russia",
+            "Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, 119991 Moscow, Russia",
+            "Joint Institute for Nuclear Research, Dubna 141980, Moscow region, Russia",
+            "Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, 119991 Moscow, Russia",
+            "Joint Institute for Nuclear Research, Dubna 141980, Moscow region, Russia"
+        ]
+    },
+    "2311_tex_test/2311.00012": {},
+    "2311_tex_test/2311.00016": {},
+    "2311_tex_test/2311.00008": {},
+    "2311_tex_test/2311.00007": {
+        "\\\\address": [
+            "Department of Philosophy and Department of Mathematical Sciences, Baker Hall 161, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+        ]
+    },
+    "2311_tex_test/2311.00025": {
+        "\\\\affil": [
+            "National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India.",
+            "National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India.",
+            "National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India."
+        ]
+    },
+    "2311_tex_test/2311.00023": {},
+    "2311_tex_test/2311.00030": {}
+}

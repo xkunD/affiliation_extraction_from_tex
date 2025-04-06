@@ -1,6 +1,9 @@
 
 *.zip
 *.gz
+/data
+/2311_tex
+/2311_tex_test
 /2201_samp
 /2201_samp_1
 /2201_samp_all
@@ -15,3 +18,4 @@
 ror-onename.json
 organization_extraction.log
 ror.json
+acm_id_with_ror.csv

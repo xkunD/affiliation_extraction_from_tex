@@ -1,0 +1,799 @@
+{
+    "2311_tex_test/2311.00029": [
+        {
+            "ROR_ID": "https://ror.org/04mhzgx49",
+            "Name": "Tel Aviv University",
+            "Country": "Israel",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03qxff017",
+            "Name": "Hebrew University of Jerusalem",
+            "Country": "Israel",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/010hz2d37",
+            "Name": "Laboratoire d'Annecy-le-Vieux de Physique Théorique",
+            "Country": "France",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00069": [
+        {
+            "ROR_ID": "https://ror.org/02wn5qz54",
+            "Name": "University of St Andrews",
+            "Country": "United Kingdom",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0213rcc28",
+            "Name": "Simon Fraser University",
+            "Country": "Canada",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03kgj4539",
+            "Name": "TRIUMF",
+            "Country": "Canada",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05rrcem69",
+            "Name": "University of California, Davis",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00026": [
+        {
+            "ROR_ID": "https://ror.org/03efmqc40",
+            "Name": "Arizona State University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00018": [
+        {
+            "ROR_ID": "https://ror.org/00m6w7z96",
+            "Name": "Northwestern University",
+            "Country": "Philippines",
+            "Type": "Education"
+        },
+        {
+            "ROR_ID": "https://ror.org/0190ak572",
+            "Name": "New York University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05b0g2v72",
+            "Name": "Real Colegio Complutense",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03c3r2d17",
+            "Name": "Center for Astrophysics Harvard & Smithsonian",
+            "Country": "United States",
+            "Type": "Education"
+        },
+        {
+            "ROR_ID": "https://ror.org/02jktn113",
+            "Name": "International Center for Relativistic Astrophysics",
+            "Country": "Italy",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/03vek6s52",
+            "Name": "Harvard University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/00sekdz59",
+            "Name": "Flatiron Institute",
+            "Country": "United States",
+            "Type": "Nonprofit"
+        },
+        {
+            "ROR_ID": "https://ror.org/00hj8s172",
+            "Name": "Columbia University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00007": [
+        {
+            "ROR_ID": "https://ror.org/02xkdev90"
+        },
+        {
+            "ROR_ID": "https://ror.org/05x2bcf33"
+        }
+    ],
+    "2311_tex_test/2311.00045": [
+        {
+            "ROR_ID": "https://ror.org/00scwqd12",
+            "Name": "Missouri University of Science and Technology",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02teq1165",
+            "Name": "University of Mississippi",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01vj6ck58",
+            "Name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+            "Country": "Italy",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/03a1kwz48",
+            "Name": "University of Tübingen",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/052g8jq94",
+            "Name": "Universitat Autònoma de Barcelona",
+            "Country": "Spain",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/043nxc105",
+            "Name": "Universitat de València",
+            "Country": "Spain",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/017zqws13",
+            "Name": "University of Minnesota",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00065": [
+        {
+            "ROR_ID": "https://ror.org/01a77tt86",
+            "Name": "University of Warwick",
+            "Country": "United Kingdom",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0315e5x55",
+            "Name": "Inria Saclay - Île de France",
+            "Country": "France",
+            "Type": "Government"
+        },
+        {
+            "ROR_ID": "https://ror.org/05fde5z47",
+            "Name": "Hampton University",
+            "Country": "United States",
+            "Type": "Education"
+        }
+    ],
+    "2311_tex_test/2311.00046": [
+        {
+            "ROR_ID": "https://ror.org/047s2c258",
+            "Name": "University of Maryland, College Park",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05abbep66",
+            "Name": "Brandeis University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00064": [
+        {
+            "ROR_ID": "https://ror.org/054pv6659",
+            "Name": "Universität Innsbruck",
+            "Country": "Austria",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/056hzt889",
+            "Name": "Institute for Quantum Optics and Quantum Information Innsbruck",
+            "Country": "Austria",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01kkkw551",
+            "Name": "Zentrum für Datenverarbeitung",
+            "Country": "Germany",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/041nas322",
+            "Name": "University of Bonn",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01ee9ar58",
+            "Name": "University of Nottingham",
+            "Country": "United Kingdom",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00054": [
+        {
+            "ROR_ID": "https://ror.org/05p8w6387",
+            "Name": "Florida Atlantic University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01m59r132",
+            "Name": "Akdeniz University",
+            "Country": "Türkiye",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03a5qrr21",
+            "Name": "Istanbul University",
+            "Country": "Türkiye",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/00p2ftz29",
+            "Name": "Atlas of Variant Effects Alliance",
+            "Country": "United States",
+            "Type": "Other"
+        },
+        {
+            "ROR_ID": "https://ror.org/03jgjt094",
+            "Name": "Algonquin College",
+            "Country": "Canada",
+            "Type": "Education"
+        }
+    ],
+    "2311_tex_test/2311.00058": [
+        {
+            "ROR_ID": "https://ror.org/02t274463",
+            "Name": "University of California, Santa Barbara",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0072zz521",
+            "Name": "University of Massachusetts Amherst",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/00hx57361",
+            "Name": "Princeton University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03rmrcq20",
+            "Name": "University of British Columbia",
+            "Country": "Canada",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00044": [
+        {
+            "ROR_ID": "https://ror.org/023b0x485",
+            "Name": "Johannes Gutenberg University Mainz",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05hs6h993",
+            "Name": "Michigan State University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/00cvxb145",
+            "Name": "University of Washington",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00093": [
+        {
+            "ROR_ID": "https://ror.org/0168r3w48",
+            "Name": "University of California, San Diego",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00057": [
+        {
+            "ROR_ID": "https://ror.org/02t274463",
+            "Name": "University of California, Santa Barbara",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/04dkp9463",
+            "Name": "University of Amsterdam",
+            "Country": "The Netherlands",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01yx4wq53",
+            "Name": "Delta Institute for Theoretical Physics",
+            "Country": "The Netherlands",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00031": [
+        {
+            "ROR_ID": "https://ror.org/04p491231",
+            "Name": "Pennsylvania State University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01an7q238",
+            "Name": "University of California, Berkeley",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05qpz1x62",
+            "Name": "Friedrich Schiller University Jena",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05trd4x28",
+            "Name": "University of Trento",
+            "Country": "Italy",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/00nhs3j29",
+            "Name": "Istituto Nazionale di Fisica Nucleare, Trento Institute for Fundamental Physics And Applications",
+            "Country": "Italy",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00004": [
+        {
+            "ROR_ID": "https://ror.org/01jkd3546",
+            "Name": "P.N. Lebedev Physical Institute of the Russian Academy of Sciences",
+            "Country": "Russia",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/010pmpe69",
+            "Name": "Lomonosov Moscow State University",
+            "Country": "Russia",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/044yd9t77",
+            "Name": "Joint Institute for Nuclear Research",
+            "Country": "Russia",
+            "Type": "Facility, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00097": [
+        {
+            "ROR_ID": "https://ror.org/020yh1f96",
+            "Name": "Ohio State University Hospital",
+            "Country": "United States",
+            "Type": "Healthcare"
+        }
+    ],
+    "2311_tex_test/2311.00033": [
+        {
+            "ROR_ID": "https://ror.org/05f0yaq80",
+            "Name": "Stockholm University",
+            "Country": "Sweden",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/022hq6c49",
+            "Name": "Istituto Nazionale di Fisica Nucleare, Sezione di Bari",
+            "Country": "Italy",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/01f7bcy98",
+            "Name": "Heidelberg Institute for Theoretical Studies",
+            "Country": "Germany",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/03bf2s235",
+            "Name": "Institut für Umweltwirtschaftsanalysen Heidelberg",
+            "Country": "Germany",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/0192m2k53",
+            "Name": "University of Salerno",
+            "Country": "Italy",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/043kfae87",
+            "Name": "Istituto Nazionale di Fisica Nucleare, Gruppo Collegato di Salerno",
+            "Country": "Italy",
+            "Type": "Education"
+        },
+        {
+            "ROR_ID": "https://ror.org/010hz2d37",
+            "Name": "Laboratoire d'Annecy-le-Vieux de Physique Théorique",
+            "Country": "France",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00027": [
+        {
+            "ROR_ID": "https://ror.org/05tkyf982",
+            "Name": "Ben-Gurion University of the Negev",
+            "Country": "Israel",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00019": [
+        {
+            "ROR_ID": "https://ror.org/047426m28",
+            "Name": "University of Illinois Urbana-Champaign",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/026vcq606",
+            "Name": "KTH Royal Institute of Technology",
+            "Country": "Sweden",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03mzbmf11",
+            "Name": "Institute for Physics of Microstructures",
+            "Country": "Russia",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00001": [
+        {
+            "ROR_ID": "https://ror.org/03nz8qe97",
+            "Name": "Ariel University",
+            "Country": "Israel",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00080": [
+        {
+            "ROR_ID": "https://ror.org/00shc0s02"
+        }
+    ],
+    "2311_tex_test/2311.00020": [
+        {
+            "ROR_ID": "https://ror.org/02crff812",
+            "Name": "University of Zurich",
+            "Country": "Switzerland",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/023b0x485",
+            "Name": "Johannes Gutenberg University Mainz",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0220mzb33",
+            "Name": "King's College London",
+            "Country": "United Kingdom",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00042": [
+        {
+            "ROR_ID": "https://ror.org/008fyn775",
+            "Name": "Wrocław University of Science and Technology",
+            "Country": "Poland",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01tmp8f25",
+            "Name": "Universidad Nacional Autónoma de México",
+            "Country": "Mexico",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/04pp8hn57",
+            "Name": "Utrecht University",
+            "Country": "The Netherlands",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/011hxwn54",
+            "Name": "Asia Pacific Center for Theoretical Physics",
+            "Country": "South Korea",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/04xysgw12",
+            "Name": "Pohang University of Science and Technology",
+            "Country": "South Korea",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/04dkp9463",
+            "Name": "University of Amsterdam",
+            "Country": "The Netherlands",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00061": [
+        {
+            "ROR_ID": "https://ror.org/03rwgpn18",
+            "Name": "Clarkson University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/036rp1748",
+            "Name": "Universidade de São Paulo",
+            "Country": "Brazil",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0207ad724",
+            "Name": "Wake Forest University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00067": [
+        {
+            "ROR_ID": "https://ror.org/05f11g639"
+        }
+    ],
+    "2311_tex_test/2311.00025": [
+        {
+            "ROR_ID": "https://ror.org/04tbt8b85",
+            "Name": "National Centre for Radio Astrophysics",
+            "Country": "India",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00084": [
+        {
+            "ROR_ID": "https://ror.org/01apwpt12",
+            "Name": "Sandia National Laboratories",
+            "Country": "United States",
+            "Type": "Facility, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00043": [
+        {
+            "ROR_ID": "https://ror.org/022jz8688",
+            "Name": "York University",
+            "Country": "United States",
+            "Type": "Education"
+        }
+    ],
+    "2311_tex_test/2311.00050": [
+        {
+            "ROR_ID": "https://ror.org/03rmrcq20",
+            "Name": "University of British Columbia",
+            "Country": "Canada",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00051": [
+        {
+            "ROR_ID": "https://ror.org/048tbm396",
+            "Name": "University of Turin",
+            "Country": "Italy",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01vj6ck58",
+            "Name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+            "Country": "Italy",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/010hz2d37",
+            "Name": "Laboratoire d'Annecy-le-Vieux de Physique Théorique",
+            "Country": "France",
+            "Type": "Facility"
+        }
+    ],
+    "2311_tex_test/2311.00039": [
+        {
+            "ROR_ID": "https://ror.org/059636586",
+            "Name": "Istanbul Technical University",
+            "Country": "Türkiye",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/012tb2g32",
+            "Name": "Tianjin University",
+            "Country": "China",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00092": [
+        {
+            "ROR_ID": "https://ror.org/02feahw73"
+        }
+    ],
+    "2311_tex_test/2311.00085": [
+        {
+            "ROR_ID": "https://ror.org/00za53h95",
+            "Name": "Johns Hopkins University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00083": [
+        {
+            "ROR_ID": "https://ror.org/02bv3zr67",
+            "Name": "Homi Bhabha National Institute",
+            "Country": "India",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02qmw3e81",
+            "Name": "Centre of Plasma Physics - Institute for Plasma Research",
+            "Country": "India",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/049tgcd06",
+            "Name": "Indian Institute of Technology Delhi",
+            "Country": "India",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00078": [
+        {
+            "ROR_ID": "https://ror.org/01qz5mb56",
+            "Name": "Oak Ridge National Laboratory",
+            "Country": "United States",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01wass480",
+            "Name": "Center for Nanophase Materials Sciences",
+            "Country": "United States",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/020f3ap87",
+            "Name": "University of Tennessee at Knoxville",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/036266993",
+            "Name": "National Renewable Energy Laboratory",
+            "Country": "United States",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01t8fg661",
+            "Name": "ISIS Neutron and Muon Source",
+            "Country": "United Kingdom",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02dqehb95",
+            "Name": "Purdue University West Lafayette",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00098": [
+        {
+            "ROR_ID": "https://ror.org/00bzsst90",
+            "Name": "Institute for Advanced Studies in Basic Sciences",
+            "Country": "Iran",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00074": [
+        {
+            "ROR_ID": "https://ror.org/010x8gc63",
+            "Name": "University of Saskatchewan",
+            "Country": "Canada",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00066": [
+        {
+            "ROR_ID": "https://ror.org/00nt41z93",
+            "Name": "University of Aveiro",
+            "Country": "Portugal",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02ht4fk33",
+            "Name": "Instituto de Telecomunicações",
+            "Country": "Portugal",
+            "Type": "Nonprofit, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00088": [
+        {
+            "ROR_ID": "https://ror.org/01an7q238",
+            "Name": "University of California, Berkeley",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/041hz9568",
+            "Name": "Korea Institute for Advanced Study",
+            "Country": "South Korea",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/02jbv0t02",
+            "Name": "Lawrence Berkeley National Laboratory",
+            "Country": "United States",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/04p491231",
+            "Name": "Pennsylvania State University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00037": [
+        {
+            "ROR_ID": "https://ror.org/017zqws13",
+            "Name": "University of Minnesota",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/04vg4w365",
+            "Name": "Loughborough University",
+            "Country": "United Kingdom",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02kkvpp62",
+            "Name": "Technical University of Munich",
+            "Country": "Germany",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00028": [
+        {
+            "ROR_ID": "https://ror.org/00390t168",
+            "Name": "College of Charleston",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/041nk4h53",
+            "Name": "Lawrence Livermore National Laboratory",
+            "Country": "United States",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0165d9303",
+            "Name": "Harish-Chandra Research Institute",
+            "Country": "India",
+            "Type": "Education, Funder"
+        }
+    ],
+    "2311_tex_test/2311.00014": [
+        {
+            "ROR_ID": "https://ror.org/00nzsxq20",
+            "Name": "National Centre for Nuclear Research",
+            "Country": "Poland",
+            "Type": "Government"
+        }
+    ]
+}
