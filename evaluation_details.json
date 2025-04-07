@@ -1,116 +1,48 @@
 [
     {
-        "paper_id": "2311.00029",
+        "paper_id": "2311.00054",
         "ground_truth_rors": [
-            "https://ror.org/02feahw73",
-            "https://ror.org/03qxff017",
-            "https://ror.org/04mhzgx49"
+            "https://ror.org/03a5qrr21",
+            "https://ror.org/05sqd3t97",
+            "https://ror.org/05p8w6387",
+            "https://ror.org/04b1gft39",
+            "https://ror.org/01m59r132"
         ],
         "extracted_rors": [
-            "https://ror.org/03qxff017",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/04mhzgx49"
+            "https://ror.org/03a5qrr21",
+            "https://ror.org/00p2ftz29",
+            "https://ror.org/05p8w6387",
+            "https://ror.org/04b1gft39",
+            "https://ror.org/01m59r132"
         ],
         "matched_affiliations": [
-            "https://ror.org/03qxff017",
-            "https://ror.org/04mhzgx49"
+            "https://ror.org/05p8w6387",
+            "https://ror.org/04b1gft39",
+            "https://ror.org/03a5qrr21",
+            "https://ror.org/01m59r132"
         ],
         "missed_affiliations": [
-            "https://ror.org/02feahw73"
+            "https://ror.org/05sqd3t97"
         ],
         "extra_affiliations": [
-            "https://ror.org/010hz2d37"
+            "https://ror.org/00p2ftz29"
         ],
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00069",
+        "paper_id": "2311.00043",
         "ground_truth_rors": [
-            "https://ror.org/05rrcem69",
-            "https://ror.org/0213rcc28",
-            "https://ror.org/03rmrcq20",
-            "https://ror.org/00pjdza24",
-            "https://ror.org/02wn5qz54"
+            "https://ror.org/05fq50484"
         ],
         "extracted_rors": [
-            "https://ror.org/03kgj4539",
-            "https://ror.org/0213rcc28",
-            "https://ror.org/05rrcem69",
-            "https://ror.org/02wn5qz54"
+            "https://ror.org/022jz8688"
         ],
-        "matched_affiliations": [
-            "https://ror.org/05rrcem69",
-            "https://ror.org/0213rcc28",
-            "https://ror.org/02wn5qz54"
-        ],
+        "matched_affiliations": [],
         "missed_affiliations": [
-            "https://ror.org/03rmrcq20",
-            "https://ror.org/00pjdza24"
+            "https://ror.org/05fq50484"
         ],
         "extra_affiliations": [
-            "https://ror.org/03kgj4539"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00026",
-        "ground_truth_rors": [
-            "https://ror.org/03efmqc40",
-            "https://ror.org/01ggx4157"
-        ],
-        "extracted_rors": [
-            "https://ror.org/03efmqc40"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/03efmqc40"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01ggx4157"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00018",
-        "ground_truth_rors": [
-            "https://ror.org/0190ak572",
-            "https://ror.org/01cmst727",
-            "https://ror.org/00hj8s172",
-            "https://ror.org/01zkghx44",
-            "https://ror.org/03c3r2d17",
-            "https://ror.org/03vek6s52",
-            "https://ror.org/017wcm924",
-            "https://ror.org/01pp8nd67",
-            "https://ror.org/000e0be47"
-        ],
-        "extracted_rors": [
-            "https://ror.org/00m6w7z96",
-            "https://ror.org/0190ak572",
-            "https://ror.org/00hj8s172",
-            "https://ror.org/05b0g2v72",
-            "https://ror.org/02jktn113",
-            "https://ror.org/03vek6s52",
-            "https://ror.org/03c3r2d17",
-            "https://ror.org/00sekdz59"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/03vek6s52",
-            "https://ror.org/0190ak572",
-            "https://ror.org/03c3r2d17",
-            "https://ror.org/00hj8s172"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01cmst727",
-            "https://ror.org/01pp8nd67",
-            "https://ror.org/017wcm924",
-            "https://ror.org/01zkghx44",
-            "https://ror.org/000e0be47"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/02jktn113",
-            "https://ror.org/05b0g2v72",
-            "https://ror.org/00m6w7z96",
-            "https://ror.org/00sekdz59"
+            "https://ror.org/022jz8688"
         ],
         "paper_exact_match": false
     },
@@ -120,8 +52,8 @@
             "https://ror.org/05x2bcf33"
         ],
         "extracted_rors": [
-            "https://ror.org/02xkdev90",
-            "https://ror.org/05x2bcf33"
+            "https://ror.org/05x2bcf33",
+            "https://ror.org/02xkdev90"
         ],
         "matched_affiliations": [
             "https://ror.org/05x2bcf33"
@@ -133,294 +65,79 @@
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00045",
+        "paper_id": "2311.00033",
         "ground_truth_rors": [
-            "https://ror.org/03grvy078",
-            "https://ror.org/01vj6ck58",
-            "https://ror.org/043nxc105",
-            "https://ror.org/017zqws13",
+            "https://ror.org/05f0yaq80",
+            "https://ror.org/026vcq606",
+            "https://ror.org/0192m2k53",
+            "https://ror.org/04gqg1a07",
+            "https://ror.org/02feahw73",
+            "https://ror.org/03xfq7a50",
+            "https://ror.org/010hz2d37",
+            "https://ror.org/00z54nq84",
             "https://ror.org/005ta0471",
-            "https://ror.org/052g8jq94",
-            "https://ror.org/03a1kwz48",
-            "https://ror.org/032va1j59",
-            "https://ror.org/00scwqd12",
-            "https://ror.org/048tbm396",
-            "https://ror.org/02teq1165"
+            "https://ror.org/038t36y30",
+            "https://ror.org/022hq6c49"
         ],
         "extracted_rors": [
-            "https://ror.org/01vj6ck58",
-            "https://ror.org/043nxc105",
-            "https://ror.org/017zqws13",
-            "https://ror.org/052g8jq94",
-            "https://ror.org/03a1kwz48",
-            "https://ror.org/00scwqd12",
-            "https://ror.org/02teq1165"
+            "https://ror.org/05f0yaq80",
+            "https://ror.org/0192m2k53",
+            "https://ror.org/025en1p25",
+            "https://ror.org/010hz2d37",
+            "https://ror.org/043kfae87",
+            "https://ror.org/022hq6c49"
         ],
         "matched_affiliations": [
-            "https://ror.org/01vj6ck58",
-            "https://ror.org/043nxc105",
-            "https://ror.org/017zqws13",
-            "https://ror.org/052g8jq94",
-            "https://ror.org/03a1kwz48",
-            "https://ror.org/00scwqd12",
-            "https://ror.org/02teq1165"
+            "https://ror.org/0192m2k53",
+            "https://ror.org/05f0yaq80",
+            "https://ror.org/010hz2d37",
+            "https://ror.org/022hq6c49"
         ],
         "missed_affiliations": [
-            "https://ror.org/032va1j59",
-            "https://ror.org/048tbm396",
-            "https://ror.org/03grvy078",
-            "https://ror.org/005ta0471"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00065",
-        "ground_truth_rors": [
-            "https://ror.org/05fde5z47",
-            "https://ror.org/01a77tt86"
-        ],
-        "extracted_rors": [
-            "https://ror.org/05fde5z47",
-            "https://ror.org/01a77tt86",
-            "https://ror.org/0315e5x55"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/05fde5z47",
-            "https://ror.org/01a77tt86"
-        ],
-        "missed_affiliations": [],
-        "extra_affiliations": [
-            "https://ror.org/0315e5x55"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00046",
-        "ground_truth_rors": [
-            "https://ror.org/01r0c1p88",
-            "https://ror.org/047s2c258",
-            "https://ror.org/05abbep66"
-        ],
-        "extracted_rors": [
-            "https://ror.org/047s2c258",
-            "https://ror.org/05abbep66"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/047s2c258",
-            "https://ror.org/05abbep66"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01r0c1p88"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00064",
-        "ground_truth_rors": [
-            "https://ror.org/054pv6659",
-            "https://ror.org/03a1kwz48",
-            "https://ror.org/02k7v4d05",
-            "https://ror.org/01ee9ar58",
-            "https://ror.org/03anc3s24"
-        ],
-        "extracted_rors": [
-            "https://ror.org/054pv6659",
-            "https://ror.org/041nas322",
-            "https://ror.org/01ee9ar58",
-            "https://ror.org/056hzt889",
-            "https://ror.org/01kkkw551"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/01ee9ar58",
-            "https://ror.org/054pv6659"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/02k7v4d05",
-            "https://ror.org/03a1kwz48",
-            "https://ror.org/03anc3s24"
+            "https://ror.org/026vcq606",
+            "https://ror.org/04gqg1a07",
+            "https://ror.org/02feahw73",
+            "https://ror.org/03xfq7a50",
+            "https://ror.org/00z54nq84",
+            "https://ror.org/005ta0471",
+            "https://ror.org/038t36y30"
         ],
         "extra_affiliations": [
-            "https://ror.org/041nas322",
-            "https://ror.org/056hzt889",
-            "https://ror.org/01kkkw551"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00054",
-        "ground_truth_rors": [
-            "https://ror.org/04b1gft39",
-            "https://ror.org/05p8w6387",
-            "https://ror.org/01m59r132",
-            "https://ror.org/05sqd3t97",
-            "https://ror.org/03a5qrr21"
-        ],
-        "extracted_rors": [
-            "https://ror.org/03jgjt094",
-            "https://ror.org/05p8w6387",
-            "https://ror.org/01m59r132",
-            "https://ror.org/03a5qrr21",
-            "https://ror.org/00p2ftz29"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/01m59r132",
-            "https://ror.org/05p8w6387",
-            "https://ror.org/03a5qrr21"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/04b1gft39",
-            "https://ror.org/05sqd3t97"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/03jgjt094",
-            "https://ror.org/00p2ftz29"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00058",
-        "ground_truth_rors": [
-            "https://ror.org/0260j1g46",
-            "https://ror.org/0072zz521",
-            "https://ror.org/00hx57361",
-            "https://ror.org/03rmrcq20",
-            "https://ror.org/02t274463",
-            "https://ror.org/00pjdza24"
-        ],
-        "extracted_rors": [
-            "https://ror.org/03rmrcq20",
-            "https://ror.org/02t274463",
-            "https://ror.org/0072zz521",
-            "https://ror.org/00hx57361"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/03rmrcq20",
-            "https://ror.org/02t274463",
-            "https://ror.org/0072zz521",
-            "https://ror.org/00hx57361"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/0260j1g46",
-            "https://ror.org/00pjdza24"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00044",
-        "ground_truth_rors": [],
-        "extracted_rors": [
-            "https://ror.org/023b0x485",
-            "https://ror.org/00cvxb145",
-            "https://ror.org/05hs6h993"
-        ],
-        "matched_affiliations": [],
-        "missed_affiliations": [],
-        "extra_affiliations": [
-            "https://ror.org/023b0x485",
-            "https://ror.org/00cvxb145",
-            "https://ror.org/05hs6h993"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00093",
-        "ground_truth_rors": [
-            "https://ror.org/00pjdza24",
-            "https://ror.org/0168r3w48"
-        ],
-        "extracted_rors": [
-            "https://ror.org/0168r3w48"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/0168r3w48"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/00pjdza24"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00057",
-        "ground_truth_rors": [
-            "https://ror.org/02t274463",
-            "https://ror.org/00pjdza24",
-            "https://ror.org/04dkp9463"
-        ],
-        "extracted_rors": [
-            "https://ror.org/02t274463",
-            "https://ror.org/01yx4wq53",
-            "https://ror.org/04dkp9463"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/02t274463",
-            "https://ror.org/04dkp9463"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/00pjdza24"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/01yx4wq53"
+            "https://ror.org/043kfae87",
+            "https://ror.org/025en1p25"
         ],
         "paper_exact_match": false
     },
     {
         "paper_id": "2311.00031",
         "ground_truth_rors": [
-            "https://ror.org/01j33xk10",
-            "https://ror.org/00nhs3j29",
-            "https://ror.org/05qpz1x62",
-            "https://ror.org/005ta0471",
             "https://ror.org/01an7q238",
             "https://ror.org/05trd4x28",
             "https://ror.org/04p491231",
-            "https://ror.org/00pjdza24"
-        ],
-        "extracted_rors": [
-            "https://ror.org/05qpz1x62",
-            "https://ror.org/00nhs3j29",
-            "https://ror.org/01an7q238",
-            "https://ror.org/05trd4x28",
-            "https://ror.org/04p491231"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/05qpz1x62",
-            "https://ror.org/00nhs3j29",
-            "https://ror.org/01an7q238",
-            "https://ror.org/05trd4x28",
-            "https://ror.org/04p491231"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01j33xk10",
+            "https://ror.org/005ta0471",
             "https://ror.org/00pjdza24",
-            "https://ror.org/005ta0471"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00004",
-        "ground_truth_rors": [
-            "https://ror.org/010pmpe69",
-            "https://ror.org/044yd9t77",
-            "https://ror.org/05qrfxd25",
-            "https://ror.org/01jkd3546"
+            "https://ror.org/05qpz1x62",
+            "https://ror.org/00nhs3j29",
+            "https://ror.org/01j33xk10"
         ],
         "extracted_rors": [
-            "https://ror.org/010pmpe69",
-            "https://ror.org/044yd9t77",
-            "https://ror.org/01jkd3546"
+            "https://ror.org/01an7q238",
+            "https://ror.org/05trd4x28",
+            "https://ror.org/04p491231",
+            "https://ror.org/05qpz1x62",
+            "https://ror.org/00nhs3j29"
         ],
         "matched_affiliations": [
-            "https://ror.org/010pmpe69",
-            "https://ror.org/044yd9t77",
-            "https://ror.org/01jkd3546"
+            "https://ror.org/01an7q238",
+            "https://ror.org/05trd4x28",
+            "https://ror.org/04p491231",
+            "https://ror.org/05qpz1x62",
+            "https://ror.org/00nhs3j29"
         ],
         "missed_affiliations": [
-            "https://ror.org/05qrfxd25"
+            "https://ror.org/005ta0471",
+            "https://ror.org/01j33xk10",
+            "https://ror.org/00pjdza24"
         ],
         "extra_affiliations": [],
         "paper_exact_match": false
@@ -443,95 +160,408 @@
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00033",
+        "paper_id": "2311.00121",
         "ground_truth_rors": [
-            "https://ror.org/05f0yaq80",
-            "https://ror.org/026vcq606",
-            "https://ror.org/04gqg1a07",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/005ta0471",
-            "https://ror.org/038t36y30",
-            "https://ror.org/0192m2k53",
-            "https://ror.org/03xfq7a50",
-            "https://ror.org/02feahw73",
-            "https://ror.org/022hq6c49",
-            "https://ror.org/00z54nq84"
+            "https://ror.org/04gyf1771",
+            "https://ror.org/00pjdza24"
         ],
         "extracted_rors": [
-            "https://ror.org/05f0yaq80",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/0192m2k53",
-            "https://ror.org/01f7bcy98",
-            "https://ror.org/022hq6c49",
-            "https://ror.org/03bf2s235",
-            "https://ror.org/043kfae87"
+            "https://ror.org/04gyf1771"
         ],
         "matched_affiliations": [
-            "https://ror.org/05f0yaq80",
-            "https://ror.org/0192m2k53",
-            "https://ror.org/022hq6c49",
-            "https://ror.org/010hz2d37"
+            "https://ror.org/04gyf1771"
         ],
         "missed_affiliations": [
-            "https://ror.org/026vcq606",
-            "https://ror.org/04gqg1a07",
-            "https://ror.org/005ta0471",
-            "https://ror.org/038t36y30",
-            "https://ror.org/03xfq7a50",
-            "https://ror.org/02feahw73",
-            "https://ror.org/00z54nq84"
+            "https://ror.org/00pjdza24"
         ],
-        "extra_affiliations": [
-            "https://ror.org/01f7bcy98",
-            "https://ror.org/03bf2s235",
-            "https://ror.org/043kfae87"
-        ],
+        "extra_affiliations": [],
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00027",
+        "paper_id": "2311.00098",
         "ground_truth_rors": [
-            "https://ror.org/05tkyf982"
+            "https://ror.org/00bzsst90"
         ],
         "extracted_rors": [
-            "https://ror.org/05tkyf982"
+            "https://ror.org/00bzsst90"
         ],
         "matched_affiliations": [
-            "https://ror.org/05tkyf982"
+            "https://ror.org/00bzsst90"
         ],
         "missed_affiliations": [],
         "extra_affiliations": [],
         "paper_exact_match": true
     },
     {
-        "paper_id": "2311.00019",
+        "paper_id": "2311.00004",
         "ground_truth_rors": [
-            "https://ror.org/05f0yaq80",
-            "https://ror.org/026vcq606",
             "https://ror.org/05qrfxd25",
-            "https://ror.org/03r06fs10",
-            "https://ror.org/05e94g991",
-            "https://ror.org/056mrsz54",
-            "https://ror.org/047426m28"
+            "https://ror.org/044yd9t77",
+            "https://ror.org/01jkd3546",
+            "https://ror.org/010pmpe69"
         ],
         "extracted_rors": [
-            "https://ror.org/026vcq606",
-            "https://ror.org/047426m28",
-            "https://ror.org/03mzbmf11"
+            "https://ror.org/044yd9t77",
+            "https://ror.org/01jkd3546",
+            "https://ror.org/010pmpe69"
         ],
         "matched_affiliations": [
-            "https://ror.org/026vcq606",
-            "https://ror.org/047426m28"
+            "https://ror.org/044yd9t77",
+            "https://ror.org/01jkd3546",
+            "https://ror.org/010pmpe69"
         ],
         "missed_affiliations": [
-            "https://ror.org/05f0yaq80",
-            "https://ror.org/05qrfxd25",
-            "https://ror.org/03r06fs10",
-            "https://ror.org/05e94g991",
-            "https://ror.org/056mrsz54"
+            "https://ror.org/05qrfxd25"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00108",
+        "ground_truth_rors": [
+            "https://ror.org/02my7ff12",
+            "https://ror.org/03n15ch10",
+            "https://ror.org/019tcpt25",
+            "https://ror.org/043pwc612",
+            "https://ror.org/006bxqs05",
+            "https://ror.org/01r9z8p25",
+            "https://ror.org/03xjwb503",
+            "https://ror.org/02feahw73",
+            "https://ror.org/00jjx8s55",
+            "https://ror.org/01faaaf77",
+            "https://ror.org/02gh4kt33",
+            "https://ror.org/03cmntr54"
+        ],
+        "extracted_rors": [
+            "https://ror.org/05f82e368"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [
+            "https://ror.org/02my7ff12",
+            "https://ror.org/03n15ch10",
+            "https://ror.org/019tcpt25",
+            "https://ror.org/043pwc612",
+            "https://ror.org/006bxqs05",
+            "https://ror.org/01r9z8p25",
+            "https://ror.org/03xjwb503",
+            "https://ror.org/02feahw73",
+            "https://ror.org/00jjx8s55",
+            "https://ror.org/01faaaf77",
+            "https://ror.org/02gh4kt33",
+            "https://ror.org/03cmntr54"
         ],
         "extra_affiliations": [
-            "https://ror.org/03mzbmf11"
+            "https://ror.org/05f82e368"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00057",
+        "ground_truth_rors": [
+            "https://ror.org/02t274463",
+            "https://ror.org/04dkp9463",
+            "https://ror.org/00pjdza24"
+        ],
+        "extracted_rors": [
+            "https://ror.org/02t274463",
+            "https://ror.org/04dkp9463",
+            "https://ror.org/01yx4wq53"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/02t274463",
+            "https://ror.org/04dkp9463"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00pjdza24"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/01yx4wq53"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00061",
+        "ground_truth_rors": [
+            "https://ror.org/036rp1748",
+            "https://ror.org/03rwgpn18",
+            "https://ror.org/0207ad724"
+        ],
+        "extracted_rors": [
+            "https://ror.org/036rp1748",
+            "https://ror.org/03rwgpn18",
+            "https://ror.org/0207ad724"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/036rp1748",
+            "https://ror.org/03rwgpn18",
+            "https://ror.org/0207ad724"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00145",
+        "ground_truth_rors": [
+            "https://ror.org/040wg7k59",
+            "https://ror.org/00htwgm11",
+            "https://ror.org/047s2c258",
+            "https://ror.org/00pjdza24",
+            "https://ror.org/05dxps055",
+            "https://ror.org/03cqe8w59",
+            "https://ror.org/047gc3g35",
+            "https://ror.org/0034eay46",
+            "https://ror.org/03m2x1q45",
+            "https://ror.org/01adx8c71",
+            "https://ror.org/01r0c1p88",
+            "https://ror.org/01f5ytq51",
+            "https://ror.org/0168r3w48"
+        ],
+        "extracted_rors": [
+            "https://ror.org/047s2c258"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/047s2c258"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/040wg7k59",
+            "https://ror.org/00htwgm11",
+            "https://ror.org/00pjdza24",
+            "https://ror.org/05dxps055",
+            "https://ror.org/03cqe8w59",
+            "https://ror.org/047gc3g35",
+            "https://ror.org/0034eay46",
+            "https://ror.org/03m2x1q45",
+            "https://ror.org/01adx8c71",
+            "https://ror.org/01r0c1p88",
+            "https://ror.org/01f5ytq51",
+            "https://ror.org/0168r3w48"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00115",
+        "ground_truth_rors": [
+            "https://ror.org/002h8g185",
+            "https://ror.org/0524sp257"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0524sp257",
+            "https://ror.org/002h8g185"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/0524sp257",
+            "https://ror.org/002h8g185"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00132",
+        "ground_truth_rors": [
+            "https://ror.org/050jcm728",
+            "https://ror.org/04ett5b41",
+            "https://ror.org/047gc3g35",
+            "https://ror.org/04z22qz54",
+            "https://ror.org/02feahw73",
+            "https://ror.org/02rx3b187",
+            "https://ror.org/04teye511",
+            "https://ror.org/05sbt2524",
+            "https://ror.org/02kvxyf05"
+        ],
+        "extracted_rors": [
+            "https://ror.org/04ett5b41"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/04ett5b41"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/050jcm728",
+            "https://ror.org/047gc3g35",
+            "https://ror.org/04z22qz54",
+            "https://ror.org/02feahw73",
+            "https://ror.org/02rx3b187",
+            "https://ror.org/04teye511",
+            "https://ror.org/05sbt2524",
+            "https://ror.org/02kvxyf05"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00092",
+        "ground_truth_rors": [
+            "https://ror.org/050jcm728",
+            "https://ror.org/03fk87k11",
+            "https://ror.org/02feahw73",
+            "https://ror.org/02en5vm52",
+            "https://ror.org/01eezs655",
+            "https://ror.org/04z22qz54",
+            "https://ror.org/05f82e368"
+        ],
+        "extracted_rors": [
+            "https://ror.org/02feahw73"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/02feahw73"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/050jcm728",
+            "https://ror.org/03fk87k11",
+            "https://ror.org/02en5vm52",
+            "https://ror.org/01eezs655",
+            "https://ror.org/04z22qz54",
+            "https://ror.org/05f82e368"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00158",
+        "ground_truth_rors": [
+            "https://ror.org/0108mwc04",
+            "https://ror.org/038t36y30",
+            "https://ror.org/01tmp8f25",
+            "https://ror.org/01jdpyv68"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0108mwc04",
+            "https://ror.org/03gh96r95"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/0108mwc04"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/038t36y30",
+            "https://ror.org/01tmp8f25",
+            "https://ror.org/01jdpyv68"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/03gh96r95"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00026",
+        "ground_truth_rors": [
+            "https://ror.org/01ggx4157",
+            "https://ror.org/03efmqc40"
+        ],
+        "extracted_rors": [
+            "https://ror.org/03efmqc40"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/03efmqc40"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/01ggx4157"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00066",
+        "ground_truth_rors": [
+            "https://ror.org/00nt41z93",
+            "https://ror.org/02ht4fk33"
+        ],
+        "extracted_rors": [
+            "https://ror.org/00nt41z93",
+            "https://ror.org/02ht4fk33"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/00nt41z93",
+            "https://ror.org/02ht4fk33"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00088",
+        "ground_truth_rors": [
+            "https://ror.org/00mmn6b08",
+            "https://ror.org/01an7q238",
+            "https://ror.org/04p491231",
+            "https://ror.org/00pjdza24",
+            "https://ror.org/01bj3aw27",
+            "https://ror.org/041hz9568",
+            "https://ror.org/02jbv0t02"
+        ],
+        "extracted_rors": [
+            "https://ror.org/041hz9568",
+            "https://ror.org/01an7q238",
+            "https://ror.org/02jbv0t02",
+            "https://ror.org/04p491231"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/041hz9568",
+            "https://ror.org/01an7q238",
+            "https://ror.org/02jbv0t02",
+            "https://ror.org/04p491231"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00mmn6b08",
+            "https://ror.org/01bj3aw27",
+            "https://ror.org/00pjdza24"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00146",
+        "ground_truth_rors": [
+            "https://ror.org/00za53h95",
+            "https://ror.org/00hhjss72"
+        ],
+        "extracted_rors": [
+            "https://ror.org/00za53h95"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/00za53h95"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00hhjss72"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00037",
+        "ground_truth_rors": [
+            "https://ror.org/03grvy078",
+            "https://ror.org/017zqws13",
+            "https://ror.org/04vg4w365",
+            "https://ror.org/02kkvpp62"
+        ],
+        "extracted_rors": [
+            "https://ror.org/017zqws13",
+            "https://ror.org/04vg4w365",
+            "https://ror.org/02kkvpp62"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/017zqws13",
+            "https://ror.org/04vg4w365",
+            "https://ror.org/02kkvpp62"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/03grvy078"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00014",
+        "ground_truth_rors": [],
+        "extracted_rors": [
+            "https://ror.org/00nzsxq20"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [],
+        "extra_affiliations": [
+            "https://ror.org/00nzsxq20"
         ],
         "paper_exact_match": false
     },
@@ -551,58 +581,48 @@
         "paper_exact_match": true
     },
     {
-        "paper_id": "2311.00080",
-        "ground_truth_rors": [],
+        "paper_id": "2311.00114",
+        "ground_truth_rors": [
+            "https://ror.org/00r3dxy86",
+            "https://ror.org/03g5ew477",
+            "https://ror.org/03mb6wj31"
+        ],
         "extracted_rors": [
-            "https://ror.org/00shc0s02"
+            "https://ror.org/03g5ew477"
         ],
-        "matched_affiliations": [],
-        "missed_affiliations": [],
-        "extra_affiliations": [
-            "https://ror.org/00shc0s02"
+        "matched_affiliations": [
+            "https://ror.org/03g5ew477"
         ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00020",
-        "ground_truth_rors": [],
-        "extracted_rors": [
-            "https://ror.org/02crff812",
-            "https://ror.org/023b0x485",
-            "https://ror.org/0220mzb33"
+        "missed_affiliations": [
+            "https://ror.org/03mb6wj31",
+            "https://ror.org/00r3dxy86"
         ],
-        "matched_affiliations": [],
-        "missed_affiliations": [],
-        "extra_affiliations": [
-            "https://ror.org/02crff812",
-            "https://ror.org/023b0x485",
-            "https://ror.org/0220mzb33"
-        ],
+        "extra_affiliations": [],
         "paper_exact_match": false
     },
     {
         "paper_id": "2311.00042",
         "ground_truth_rors": [
-            "https://ror.org/04xysgw12",
-            "https://ror.org/008fyn775",
-            "https://ror.org/04dkp9463",
             "https://ror.org/011hxwn54",
+            "https://ror.org/008fyn775",
+            "https://ror.org/04xysgw12",
+            "https://ror.org/04dkp9463",
             "https://ror.org/04pp8hn57",
             "https://ror.org/01tmp8f25"
         ],
         "extracted_rors": [
-            "https://ror.org/04xysgw12",
-            "https://ror.org/008fyn775",
-            "https://ror.org/04dkp9463",
             "https://ror.org/011hxwn54",
+            "https://ror.org/008fyn775",
+            "https://ror.org/04xysgw12",
+            "https://ror.org/04dkp9463",
             "https://ror.org/04pp8hn57",
             "https://ror.org/01tmp8f25"
         ],
         "matched_affiliations": [
-            "https://ror.org/04xysgw12",
-            "https://ror.org/008fyn775",
-            "https://ror.org/04dkp9463",
             "https://ror.org/011hxwn54",
+            "https://ror.org/008fyn775",
+            "https://ror.org/04xysgw12",
+            "https://ror.org/04dkp9463",
             "https://ror.org/04pp8hn57",
             "https://ror.org/01tmp8f25"
         ],
@@ -611,31 +631,23 @@
         "paper_exact_match": true
     },
     {
-        "paper_id": "2311.00061",
-        "ground_truth_rors": [
-            "https://ror.org/0207ad724",
-            "https://ror.org/036rp1748",
-            "https://ror.org/03rwgpn18"
-        ],
+        "paper_id": "2311.00050",
+        "ground_truth_rors": [],
         "extracted_rors": [
-            "https://ror.org/0207ad724",
-            "https://ror.org/036rp1748",
-            "https://ror.org/03rwgpn18"
+            "https://ror.org/03rmrcq20"
         ],
-        "matched_affiliations": [
-            "https://ror.org/0207ad724",
-            "https://ror.org/036rp1748",
-            "https://ror.org/03rwgpn18"
-        ],
+        "matched_affiliations": [],
         "missed_affiliations": [],
-        "extra_affiliations": [],
-        "paper_exact_match": true
+        "extra_affiliations": [
+            "https://ror.org/03rmrcq20"
+        ],
+        "paper_exact_match": false
     },
     {
         "paper_id": "2311.00067",
         "ground_truth_rors": [
-            "https://ror.org/016st3p78",
-            "https://ror.org/05f11g639"
+            "https://ror.org/05f11g639",
+            "https://ror.org/016st3p78"
         ],
         "extracted_rors": [
             "https://ror.org/05f11g639"
@@ -667,231 +679,15 @@
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00084",
+        "paper_id": "2311.00027",
         "ground_truth_rors": [
-            "https://ror.org/03sk1we31",
-            "https://ror.org/01apwpt12",
-            "https://ror.org/01bj3aw27"
+            "https://ror.org/05tkyf982"
         ],
         "extracted_rors": [
-            "https://ror.org/01apwpt12"
+            "https://ror.org/05tkyf982"
         ],
         "matched_affiliations": [
-            "https://ror.org/01apwpt12"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/03sk1we31",
-            "https://ror.org/01bj3aw27"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00043",
-        "ground_truth_rors": [
-            "https://ror.org/05fq50484"
-        ],
-        "extracted_rors": [
-            "https://ror.org/022jz8688"
-        ],
-        "matched_affiliations": [],
-        "missed_affiliations": [
-            "https://ror.org/05fq50484"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/022jz8688"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00050",
-        "ground_truth_rors": [],
-        "extracted_rors": [
-            "https://ror.org/03rmrcq20"
-        ],
-        "matched_affiliations": [],
-        "missed_affiliations": [],
-        "extra_affiliations": [
-            "https://ror.org/03rmrcq20"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00051",
-        "ground_truth_rors": [
-            "https://ror.org/04gqg1a07",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/005ta0471",
-            "https://ror.org/01vj6ck58",
-            "https://ror.org/048tbm396",
-            "https://ror.org/02feahw73",
-            "https://ror.org/00z54nq84"
-        ],
-        "extracted_rors": [
-            "https://ror.org/048tbm396",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/01vj6ck58"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/048tbm396",
-            "https://ror.org/010hz2d37",
-            "https://ror.org/01vj6ck58"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/00z54nq84",
-            "https://ror.org/04gqg1a07",
-            "https://ror.org/02feahw73",
-            "https://ror.org/005ta0471"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00039",
-        "ground_truth_rors": [
-            "https://ror.org/059636586",
-            "https://ror.org/012tb2g32"
-        ],
-        "extracted_rors": [
-            "https://ror.org/059636586",
-            "https://ror.org/012tb2g32"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/059636586",
-            "https://ror.org/012tb2g32"
-        ],
-        "missed_affiliations": [],
-        "extra_affiliations": [],
-        "paper_exact_match": true
-    },
-    {
-        "paper_id": "2311.00092",
-        "ground_truth_rors": [
-            "https://ror.org/03fk87k11",
-            "https://ror.org/01eezs655",
-            "https://ror.org/02en5vm52",
-            "https://ror.org/050jcm728",
-            "https://ror.org/02feahw73",
-            "https://ror.org/04z22qz54",
-            "https://ror.org/05f82e368"
-        ],
-        "extracted_rors": [
-            "https://ror.org/02feahw73"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/02feahw73"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/03fk87k11",
-            "https://ror.org/01eezs655",
-            "https://ror.org/02en5vm52",
-            "https://ror.org/050jcm728",
-            "https://ror.org/04z22qz54",
-            "https://ror.org/05f82e368"
-        ],
-        "extra_affiliations": [],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00085",
-        "ground_truth_rors": [
-            "https://ror.org/00za53h95"
-        ],
-        "extracted_rors": [
-            "https://ror.org/00za53h95"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/00za53h95"
-        ],
-        "missed_affiliations": [],
-        "extra_affiliations": [],
-        "paper_exact_match": true
-    },
-    {
-        "paper_id": "2311.00083",
-        "ground_truth_rors": [
-            "https://ror.org/01hznc410",
-            "https://ror.org/03ht1xw27",
-            "https://ror.org/02m388s04",
-            "https://ror.org/049tgcd06",
-            "https://ror.org/01y5haq28"
-        ],
-        "extracted_rors": [
-            "https://ror.org/02bv3zr67",
-            "https://ror.org/049tgcd06",
-            "https://ror.org/02qmw3e81"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/049tgcd06"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01hznc410",
-            "https://ror.org/03ht1xw27",
-            "https://ror.org/02m388s04",
-            "https://ror.org/01y5haq28"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/02bv3zr67",
-            "https://ror.org/02qmw3e81"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00078",
-        "ground_truth_rors": [
-            "https://ror.org/01bj3aw27",
-            "https://ror.org/057g20z61",
-            "https://ror.org/036266993",
-            "https://ror.org/00mmn6b08",
-            "https://ror.org/01qz5mb56",
-            "https://ror.org/001aqnf71",
-            "https://ror.org/05277x335",
-            "https://ror.org/020f3ap87",
-            "https://ror.org/00xzqjh13",
-            "https://ror.org/05p8z3f47",
-            "https://ror.org/03gq8fr08",
-            "https://ror.org/02dqehb95"
-        ],
-        "extracted_rors": [
-            "https://ror.org/036266993",
-            "https://ror.org/01qz5mb56",
-            "https://ror.org/01t8fg661",
-            "https://ror.org/01wass480",
-            "https://ror.org/020f3ap87",
-            "https://ror.org/02dqehb95"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/020f3ap87",
-            "https://ror.org/036266993",
-            "https://ror.org/01qz5mb56",
-            "https://ror.org/02dqehb95"
-        ],
-        "missed_affiliations": [
-            "https://ror.org/01bj3aw27",
-            "https://ror.org/00mmn6b08",
-            "https://ror.org/057g20z61",
-            "https://ror.org/05277x335",
-            "https://ror.org/001aqnf71",
-            "https://ror.org/00xzqjh13",
-            "https://ror.org/05p8z3f47",
-            "https://ror.org/03gq8fr08"
-        ],
-        "extra_affiliations": [
-            "https://ror.org/01t8fg661",
-            "https://ror.org/01wass480"
-        ],
-        "paper_exact_match": false
-    },
-    {
-        "paper_id": "2311.00098",
-        "ground_truth_rors": [
-            "https://ror.org/00bzsst90"
-        ],
-        "extracted_rors": [
-            "https://ror.org/00bzsst90"
-        ],
-        "matched_affiliations": [
-            "https://ror.org/00bzsst90"
+            "https://ror.org/05tkyf982"
         ],
         "missed_affiliations": [],
         "extra_affiliations": [],
@@ -913,74 +709,358 @@
         "paper_exact_match": true
     },
     {
-        "paper_id": "2311.00066",
+        "paper_id": "2311.00045",
         "ground_truth_rors": [
-            "https://ror.org/00nt41z93",
-            "https://ror.org/02ht4fk33"
+            "https://ror.org/00scwqd12",
+            "https://ror.org/043nxc105",
+            "https://ror.org/03a1kwz48",
+            "https://ror.org/02teq1165",
+            "https://ror.org/052g8jq94",
+            "https://ror.org/048tbm396",
+            "https://ror.org/032va1j59",
+            "https://ror.org/03grvy078",
+            "https://ror.org/017zqws13",
+            "https://ror.org/005ta0471",
+            "https://ror.org/01vj6ck58"
         ],
         "extracted_rors": [
-            "https://ror.org/00nt41z93",
-            "https://ror.org/02ht4fk33"
+            "https://ror.org/00scwqd12",
+            "https://ror.org/043nxc105",
+            "https://ror.org/03a1kwz48",
+            "https://ror.org/02teq1165",
+            "https://ror.org/052g8jq94",
+            "https://ror.org/017zqws13",
+            "https://ror.org/01vj6ck58"
         ],
         "matched_affiliations": [
-            "https://ror.org/00nt41z93",
-            "https://ror.org/02ht4fk33"
+            "https://ror.org/00scwqd12",
+            "https://ror.org/043nxc105",
+            "https://ror.org/02teq1165",
+            "https://ror.org/03a1kwz48",
+            "https://ror.org/052g8jq94",
+            "https://ror.org/017zqws13",
+            "https://ror.org/01vj6ck58"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/03grvy078",
+            "https://ror.org/005ta0471",
+            "https://ror.org/032va1j59",
+            "https://ror.org/048tbm396"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00069",
+        "ground_truth_rors": [
+            "https://ror.org/05rrcem69",
+            "https://ror.org/00pjdza24",
+            "https://ror.org/0213rcc28",
+            "https://ror.org/03rmrcq20",
+            "https://ror.org/02wn5qz54"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0213rcc28",
+            "https://ror.org/02wn5qz54",
+            "https://ror.org/03kgj4539",
+            "https://ror.org/05rrcem69"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/0213rcc28",
+            "https://ror.org/02wn5qz54",
+            "https://ror.org/05rrcem69"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/03rmrcq20",
+            "https://ror.org/00pjdza24"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/03kgj4539"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00093",
+        "ground_truth_rors": [
+            "https://ror.org/0168r3w48",
+            "https://ror.org/00pjdza24"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0168r3w48"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/0168r3w48"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00pjdza24"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00018",
+        "ground_truth_rors": [
+            "https://ror.org/00hj8s172",
+            "https://ror.org/000e0be47",
+            "https://ror.org/03c3r2d17",
+            "https://ror.org/03vek6s52",
+            "https://ror.org/017wcm924",
+            "https://ror.org/0190ak572",
+            "https://ror.org/01cmst727",
+            "https://ror.org/01zkghx44",
+            "https://ror.org/01pp8nd67"
+        ],
+        "extracted_rors": [
+            "https://ror.org/00hj8s172",
+            "https://ror.org/000e0be47",
+            "https://ror.org/00sekdz59",
+            "https://ror.org/03c3r2d17",
+            "https://ror.org/03vek6s52",
+            "https://ror.org/02jktn113",
+            "https://ror.org/0190ak572"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/00hj8s172",
+            "https://ror.org/000e0be47",
+            "https://ror.org/03c3r2d17",
+            "https://ror.org/03vek6s52",
+            "https://ror.org/0190ak572"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/01pp8nd67",
+            "https://ror.org/01zkghx44",
+            "https://ror.org/017wcm924",
+            "https://ror.org/01cmst727"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/00sekdz59",
+            "https://ror.org/02jktn113"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00046",
+        "ground_truth_rors": [
+            "https://ror.org/05abbep66",
+            "https://ror.org/01r0c1p88",
+            "https://ror.org/047s2c258"
+        ],
+        "extracted_rors": [
+            "https://ror.org/05abbep66",
+            "https://ror.org/047s2c258"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/05abbep66",
+            "https://ror.org/047s2c258"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/01r0c1p88"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00080",
+        "ground_truth_rors": [],
+        "extracted_rors": [
+            "https://ror.org/00shc0s02"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [],
+        "extra_affiliations": [
+            "https://ror.org/00shc0s02"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00085",
+        "ground_truth_rors": [
+            "https://ror.org/00za53h95"
+        ],
+        "extracted_rors": [
+            "https://ror.org/00za53h95"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/00za53h95"
         ],
         "missed_affiliations": [],
         "extra_affiliations": [],
         "paper_exact_match": true
     },
     {
-        "paper_id": "2311.00088",
+        "paper_id": "2311.00125",
         "ground_truth_rors": [
-            "https://ror.org/01bj3aw27",
-            "https://ror.org/00mmn6b08",
-            "https://ror.org/01an7q238",
-            "https://ror.org/00pjdza24",
-            "https://ror.org/04p491231",
-            "https://ror.org/041hz9568",
-            "https://ror.org/02jbv0t02"
+            "https://ror.org/04ch49185",
+            "https://ror.org/049pfb863",
+            "https://ror.org/041akq887"
         ],
         "extracted_rors": [
-            "https://ror.org/01an7q238",
-            "https://ror.org/04p491231",
-            "https://ror.org/041hz9568",
-            "https://ror.org/02jbv0t02"
+            "https://ror.org/049pfb863"
         ],
         "matched_affiliations": [
-            "https://ror.org/01an7q238",
-            "https://ror.org/04p491231",
-            "https://ror.org/041hz9568",
-            "https://ror.org/02jbv0t02"
+            "https://ror.org/049pfb863"
         ],
         "missed_affiliations": [
-            "https://ror.org/00pjdza24",
-            "https://ror.org/01bj3aw27",
-            "https://ror.org/00mmn6b08"
+            "https://ror.org/04ch49185",
+            "https://ror.org/041akq887"
         ],
         "extra_affiliations": [],
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00037",
+        "paper_id": "2311.00103",
         "ground_truth_rors": [
-            "https://ror.org/03grvy078",
-            "https://ror.org/017zqws13",
-            "https://ror.org/02kkvpp62",
-            "https://ror.org/04vg4w365"
+            "https://ror.org/042nb2s44"
         ],
         "extracted_rors": [
-            "https://ror.org/017zqws13",
-            "https://ror.org/02kkvpp62",
-            "https://ror.org/04vg4w365"
+            "https://ror.org/042nb2s44"
         ],
         "matched_affiliations": [
-            "https://ror.org/017zqws13",
-            "https://ror.org/02kkvpp62",
-            "https://ror.org/04vg4w365"
+            "https://ror.org/042nb2s44"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00084",
+        "ground_truth_rors": [
+            "https://ror.org/03sk1we31",
+            "https://ror.org/01apwpt12",
+            "https://ror.org/01bj3aw27"
+        ],
+        "extracted_rors": [
+            "https://ror.org/01apwpt12"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/01apwpt12"
         ],
         "missed_affiliations": [
-            "https://ror.org/03grvy078"
+            "https://ror.org/03sk1we31",
+            "https://ror.org/01bj3aw27"
+        ],
+        "extra_affiliations": [],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00019",
+        "ground_truth_rors": [
+            "https://ror.org/05qrfxd25",
+            "https://ror.org/03r06fs10",
+            "https://ror.org/05f0yaq80",
+            "https://ror.org/026vcq606",
+            "https://ror.org/05e94g991",
+            "https://ror.org/047426m28",
+            "https://ror.org/056mrsz54"
+        ],
+        "extracted_rors": [
+            "https://ror.org/026vcq606",
+            "https://ror.org/03mzbmf11",
+            "https://ror.org/047426m28"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/026vcq606",
+            "https://ror.org/047426m28"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/05qrfxd25",
+            "https://ror.org/03r06fs10",
+            "https://ror.org/05f0yaq80",
+            "https://ror.org/05e94g991",
+            "https://ror.org/056mrsz54"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/03mzbmf11"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00143",
+        "ground_truth_rors": [
+            "https://ror.org/04gzbav43"
+        ],
+        "extracted_rors": [
+            "https://ror.org/04gzbav43"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/04gzbav43"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00109",
+        "ground_truth_rors": [
+            "https://ror.org/042nb2s44"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0468tse97"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [
+            "https://ror.org/042nb2s44"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/0468tse97"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00065",
+        "ground_truth_rors": [
+            "https://ror.org/01a77tt86",
+            "https://ror.org/05fde5z47"
+        ],
+        "extracted_rors": [
+            "https://ror.org/0315e5x55",
+            "https://ror.org/01a77tt86",
+            "https://ror.org/05fde5z47"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/01a77tt86",
+            "https://ror.org/05fde5z47"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [
+            "https://ror.org/0315e5x55"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00160",
+        "ground_truth_rors": [],
+        "extracted_rors": [
+            "https://ror.org/05x2bcf33",
+            "https://ror.org/02xkdev90",
+            "https://ror.org/00hx57361"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [],
+        "extra_affiliations": [
+            "https://ror.org/05x2bcf33",
+            "https://ror.org/02xkdev90",
+            "https://ror.org/00hx57361"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00152",
+        "ground_truth_rors": [
+            "https://ror.org/01an7q238",
+            "https://ror.org/042nb2s44",
+            "https://ror.org/00pjdza24"
+        ],
+        "extracted_rors": [
+            "https://ror.org/01an7q238",
+            "https://ror.org/042nb2s44"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/01an7q238",
+            "https://ror.org/042nb2s44"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00pjdza24"
         ],
         "extra_affiliations": [],
         "paper_exact_match": false
@@ -989,28 +1069,28 @@
         "paper_id": "2311.00028",
         "ground_truth_rors": [
             "https://ror.org/03sk1we31",
-            "https://ror.org/01bj3aw27",
             "https://ror.org/041nk4h53",
-            "https://ror.org/02bv3zr67",
+            "https://ror.org/00pjdza24",
             "https://ror.org/02t274463",
             "https://ror.org/00390t168",
-            "https://ror.org/00pjdza24"
+            "https://ror.org/01bj3aw27",
+            "https://ror.org/02bv3zr67"
         ],
         "extracted_rors": [
-            "https://ror.org/041nk4h53",
             "https://ror.org/00390t168",
+            "https://ror.org/041nk4h53",
             "https://ror.org/0165d9303"
         ],
         "matched_affiliations": [
-            "https://ror.org/041nk4h53",
-            "https://ror.org/00390t168"
+            "https://ror.org/00390t168",
+            "https://ror.org/041nk4h53"
         ],
         "missed_affiliations": [
             "https://ror.org/03sk1we31",
-            "https://ror.org/01bj3aw27",
-            "https://ror.org/02bv3zr67",
+            "https://ror.org/00pjdza24",
             "https://ror.org/02t274463",
-            "https://ror.org/00pjdza24"
+            "https://ror.org/01bj3aw27",
+            "https://ror.org/02bv3zr67"
         ],
         "extra_affiliations": [
             "https://ror.org/0165d9303"
@@ -1018,16 +1098,222 @@
         "paper_exact_match": false
     },
     {
-        "paper_id": "2311.00014",
+        "paper_id": "2311.00155",
+        "ground_truth_rors": [
+            "https://ror.org/023b0x485",
+            "https://ror.org/02gfc7t72",
+            "https://ror.org/04m01e293",
+            "https://ror.org/02qqy8j09",
+            "https://ror.org/02e24yw40",
+            "https://ror.org/0281dp749",
+            "https://ror.org/0097wyf31",
+            "https://ror.org/02nv7yv05",
+            "https://ror.org/00821s992"
+        ],
+        "extracted_rors": [
+            "https://ror.org/02k55qr52",
+            "https://ror.org/023b0x485",
+            "https://ror.org/04m01e293",
+            "https://ror.org/02qqy8j09",
+            "https://ror.org/02e24yw40",
+            "https://ror.org/02nv7yv05"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/023b0x485",
+            "https://ror.org/04m01e293",
+            "https://ror.org/02qqy8j09",
+            "https://ror.org/02e24yw40",
+            "https://ror.org/02nv7yv05"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/0281dp749",
+            "https://ror.org/0097wyf31",
+            "https://ror.org/00821s992",
+            "https://ror.org/02gfc7t72"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/02k55qr52"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00101",
+        "ground_truth_rors": [
+            "https://ror.org/00jmfr291"
+        ],
+        "extracted_rors": [
+            "https://ror.org/035wtm547"
+        ],
+        "matched_affiliations": [],
+        "missed_affiliations": [
+            "https://ror.org/00jmfr291"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/035wtm547"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00039",
+        "ground_truth_rors": [
+            "https://ror.org/059636586",
+            "https://ror.org/012tb2g32"
+        ],
+        "extracted_rors": [
+            "https://ror.org/059636586",
+            "https://ror.org/012tb2g32"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/059636586",
+            "https://ror.org/012tb2g32"
+        ],
+        "missed_affiliations": [],
+        "extra_affiliations": [],
+        "paper_exact_match": true
+    },
+    {
+        "paper_id": "2311.00038",
+        "ground_truth_rors": [
+            "https://ror.org/034t30j35",
+            "https://ror.org/03v76x132",
+            "https://ror.org/05qbk4x57",
+            "https://ror.org/017qcv467",
+            "https://ror.org/03k9qs827",
+            "https://ror.org/03angcq70",
+            "https://ror.org/04dkp9463",
+            "https://ror.org/03tp8z347"
+        ],
+        "extracted_rors": [
+            "https://ror.org/058pyyv44",
+            "https://ror.org/034t30j35",
+            "https://ror.org/03v76x132",
+            "https://ror.org/017qcv467",
+            "https://ror.org/01m9z6e22",
+            "https://ror.org/03angcq70",
+            "https://ror.org/01111rn36",
+            "https://ror.org/000k1q888"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/017qcv467",
+            "https://ror.org/034t30j35",
+            "https://ror.org/03v76x132",
+            "https://ror.org/03angcq70"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/03tp8z347",
+            "https://ror.org/03k9qs827",
+            "https://ror.org/05qbk4x57",
+            "https://ror.org/04dkp9463"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/058pyyv44",
+            "https://ror.org/01m9z6e22",
+            "https://ror.org/01111rn36",
+            "https://ror.org/000k1q888"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00044",
         "ground_truth_rors": [],
         "extracted_rors": [
-            "https://ror.org/00nzsxq20"
+            "https://ror.org/023b0x485",
+            "https://ror.org/05hs6h993",
+            "https://ror.org/00cvxb145"
         ],
         "matched_affiliations": [],
         "missed_affiliations": [],
         "extra_affiliations": [
-            "https://ror.org/00nzsxq20"
+            "https://ror.org/023b0x485",
+            "https://ror.org/05hs6h993",
+            "https://ror.org/00cvxb145"
         ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00064",
+        "ground_truth_rors": [
+            "https://ror.org/03a1kwz48",
+            "https://ror.org/03anc3s24",
+            "https://ror.org/02k7v4d05",
+            "https://ror.org/054pv6659",
+            "https://ror.org/01ee9ar58"
+        ],
+        "extracted_rors": [
+            "https://ror.org/056hzt889",
+            "https://ror.org/041nas322",
+            "https://ror.org/025en1p25",
+            "https://ror.org/054pv6659",
+            "https://ror.org/01ee9ar58"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/01ee9ar58",
+            "https://ror.org/054pv6659"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/02k7v4d05",
+            "https://ror.org/03a1kwz48",
+            "https://ror.org/03anc3s24"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/056hzt889",
+            "https://ror.org/025en1p25",
+            "https://ror.org/041nas322"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00029",
+        "ground_truth_rors": [
+            "https://ror.org/03qxff017",
+            "https://ror.org/04mhzgx49",
+            "https://ror.org/02feahw73"
+        ],
+        "extracted_rors": [
+            "https://ror.org/03qxff017",
+            "https://ror.org/04mhzgx49",
+            "https://ror.org/010hz2d37"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/03qxff017",
+            "https://ror.org/04mhzgx49"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/02feahw73"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/010hz2d37"
+        ],
+        "paper_exact_match": false
+    },
+    {
+        "paper_id": "2311.00051",
+        "ground_truth_rors": [
+            "https://ror.org/048tbm396",
+            "https://ror.org/010hz2d37",
+            "https://ror.org/02feahw73",
+            "https://ror.org/04gqg1a07",
+            "https://ror.org/00z54nq84",
+            "https://ror.org/005ta0471",
+            "https://ror.org/01vj6ck58"
+        ],
+        "extracted_rors": [
+            "https://ror.org/010hz2d37",
+            "https://ror.org/01vj6ck58",
+            "https://ror.org/048tbm396"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/010hz2d37",
+            "https://ror.org/01vj6ck58",
+            "https://ror.org/048tbm396"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/00z54nq84",
+            "https://ror.org/005ta0471",
+            "https://ror.org/02feahw73",
+            "https://ror.org/04gqg1a07"
+        ],
+        "extra_affiliations": [],
         "paper_exact_match": false
     }
 ]
