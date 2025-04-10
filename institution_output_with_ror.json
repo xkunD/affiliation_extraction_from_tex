@@ -167,6 +167,36 @@
             "Name": "Université Paris Cité",
             "Country": "France",
             "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/006bxqs05",
+            "Name": "Institute of Astrophysics and Space Sciences",
+            "Country": "Portugal",
+            "Type": "Facility"
+        },
+        {
+            "ROR_ID": "https://ror.org/03cmntr54",
+            "Name": "Instituto de Astrofísica de Canarias",
+            "Country": "Spain",
+            "Type": "Facility, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01r9z8p25",
+            "Name": "Universidad de La Laguna",
+            "Country": "Spain",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03xjwb503",
+            "Name": "Université Paris-Saclay",
+            "Country": "France",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/02my7ff12",
+            "Name": "Osservatorio Astrofisico di Catania",
+            "Country": "Italy",
+            "Type": "Facility, Funder"
         }
     ],
     "2311_tex_test/2311.00057": [
@@ -211,9 +241,63 @@
     ],
     "2311_tex_test/2311.00145": [
         {
+            "ROR_ID": "https://ror.org/00htwgm11",
+            "Name": "National University of Salta",
+            "Country": "Argentina",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03cqe8w59",
+            "Name": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+            "Country": "Argentina",
+            "Type": "Funder, Government"
+        },
+        {
+            "ROR_ID": "https://ror.org/047gc3g35",
+            "Name": "University of Chile",
+            "Country": "Chile",
+            "Type": "Education, Funder"
+        },
+        {
             "ROR_ID": "https://ror.org/047s2c258",
             "Name": "University of Maryland, College Park",
             "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/0168r3w48",
+            "Name": "University of California, San Diego",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/03m2x1q45",
+            "Name": "University of Arizona",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05yc77b46",
+            "Name": "University of Córdoba",
+            "Country": "Spain",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/05dxps055",
+            "Name": "California Institute of Technology",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/01f5ytq51",
+            "Name": "Texas A&M University",
+            "Country": "United States",
+            "Type": "Education, Funder"
+        },
+        {
+            "ROR_ID": "https://ror.org/040wg7k59",
+            "Name": "Chalmers University of Technology",
+            "Country": "Sweden",
             "Type": "Education, Funder"
         }
     ],

@@ -233,22 +233,28 @@
             "https://ror.org/03cmntr54"
         ],
         "extracted_rors": [
-            "https://ror.org/05f82e368"
-        ],
-        "matched_affiliations": [],
-        "missed_affiliations": [
             "https://ror.org/02my7ff12",
-            "https://ror.org/03n15ch10",
-            "https://ror.org/019tcpt25",
-            "https://ror.org/043pwc612",
-            "https://ror.org/006bxqs05",
             "https://ror.org/01r9z8p25",
             "https://ror.org/03xjwb503",
+            "https://ror.org/006bxqs05",
+            "https://ror.org/05f82e368",
+            "https://ror.org/03cmntr54"
+        ],
+        "matched_affiliations": [
+            "https://ror.org/02my7ff12",
+            "https://ror.org/01r9z8p25",
+            "https://ror.org/03xjwb503",
+            "https://ror.org/006bxqs05",
+            "https://ror.org/03cmntr54"
+        ],
+        "missed_affiliations": [
+            "https://ror.org/03n15ch10",
+            "https://ror.org/043pwc612",
+            "https://ror.org/019tcpt25",
             "https://ror.org/02feahw73",
             "https://ror.org/00jjx8s55",
             "https://ror.org/01faaaf77",
-            "https://ror.org/02gh4kt33",
-            "https://ror.org/03cmntr54"
+            "https://ror.org/02gh4kt33"
         ],
         "extra_affiliations": [
             "https://ror.org/05f82e368"
@@ -318,26 +324,37 @@
             "https://ror.org/0168r3w48"
         ],
         "extracted_rors": [
-            "https://ror.org/047s2c258"
+            "https://ror.org/040wg7k59",
+            "https://ror.org/01f5ytq51",
+            "https://ror.org/00htwgm11",
+            "https://ror.org/047s2c258",
+            "https://ror.org/047gc3g35",
+            "https://ror.org/05dxps055",
+            "https://ror.org/05yc77b46",
+            "https://ror.org/03m2x1q45",
+            "https://ror.org/0168r3w48",
+            "https://ror.org/03cqe8w59"
         ],
         "matched_affiliations": [
-            "https://ror.org/047s2c258"
-        ],
-        "missed_affiliations": [
             "https://ror.org/040wg7k59",
             "https://ror.org/00htwgm11",
-            "https://ror.org/00pjdza24",
+            "https://ror.org/047s2c258",
+            "https://ror.org/047gc3g35",
             "https://ror.org/05dxps055",
             "https://ror.org/03cqe8w59",
-            "https://ror.org/047gc3g35",
-            "https://ror.org/0034eay46",
             "https://ror.org/03m2x1q45",
-            "https://ror.org/01adx8c71",
-            "https://ror.org/01r0c1p88",
             "https://ror.org/01f5ytq51",
             "https://ror.org/0168r3w48"
         ],
-        "extra_affiliations": [],
+        "missed_affiliations": [
+            "https://ror.org/0034eay46",
+            "https://ror.org/01adx8c71",
+            "https://ror.org/01r0c1p88",
+            "https://ror.org/00pjdza24"
+        ],
+        "extra_affiliations": [
+            "https://ror.org/05yc77b46"
+        ],
         "paper_exact_match": false
     },
     {
